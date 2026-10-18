@@ -6,7 +6,7 @@ description: "Located in Amsterdam, Netherlands, Schiphol International Airport 
 tags: ["travelblog"]
 destinations: ["Amsterdam"]
 cover:
-  image: "https://i.ytimg.com/vi/YV5fbwi1KEk/maxresdefault.jpg"
+  image: "/images/covers/YV5fbwi1KEk.jpg"
   alt: "Exploring Schiphol International Airport, Netherlands"
   relative: false
 videoID: "YV5fbwi1KEk"

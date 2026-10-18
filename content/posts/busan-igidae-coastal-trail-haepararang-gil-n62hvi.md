@@ -6,7 +6,7 @@ description: "Igidae Trail Haeparang-gil: https://maps.app.goo.gl/7pz3L4xbaiNgNF
 tags: ["koreatravelvlog"]
 destinations: ["Busan"]
 cover:
-  image: "https://i.ytimg.com/vi/n62HviNlQJI/maxresdefault.jpg"
+  image: "/images/covers/n62HviNlQJI.jpg"
   alt: "Busan Igidae Coastal Trail: Haepararang-gil"
   relative: false
 videoID: "n62HviNlQJI"

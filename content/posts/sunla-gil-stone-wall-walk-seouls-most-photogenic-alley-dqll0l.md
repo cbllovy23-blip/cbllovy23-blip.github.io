@@ -6,7 +6,7 @@ description: "Take a steady walk along Sunla-gil, the most romantic stone wall p
 tags: ["koreatravelvlog", "seoul"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/DqLL0L15QXY/maxresdefault.jpg"
+  image: "/images/covers/DqLL0L15QXY.jpg"
   alt: "Sunla-gil Stone Wall Walk: Seoul’s Most Photogenic Alley"
   relative: false
 videoID: "DqLL0L15QXY"

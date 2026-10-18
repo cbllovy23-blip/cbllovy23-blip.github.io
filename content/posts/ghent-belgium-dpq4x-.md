@@ -6,7 +6,7 @@ description: "벨기에 헨트(Belgium Gent) : https://maps.app.goo.gl/5BWTuXrMn
 tags: []
 destinations: ["Ghent"]
 cover:
-  image: "https://i.ytimg.com/vi/DPq4x-7tkNg/maxresdefault.jpg"
+  image: "/images/covers/DPq4x-7tkNg.jpg"
   alt: "Ghent, Belgium"
   relative: false
 videoID: "DPq4x-7tkNg"

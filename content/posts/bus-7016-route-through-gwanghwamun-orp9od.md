@@ -6,7 +6,7 @@ description: "Bus 7016 (Eunpyeong Depot~Sangmyung Univ.): https://naver.me/5netu
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/ORp9oDy4UJM/maxresdefault.jpg"
+  image: "/images/covers/ORp9oDy4UJM.jpg"
   alt: "Bus 7016 Route Through Gwanghwamun"
   relative: false
 videoID: "ORp9oDy4UJM"

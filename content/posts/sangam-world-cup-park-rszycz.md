@@ -6,7 +6,7 @@ description: "Sangam-dong World Cup Park: https://maps.app.goo.gl/1n84jd4e7ivjBi
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/RSzYczOaCZc/maxresdefault.jpg"
+  image: "/images/covers/RSzYczOaCZc.jpg"
   alt: "Sangam World Cup Park"
   relative: false
 videoID: "RSzYczOaCZc"

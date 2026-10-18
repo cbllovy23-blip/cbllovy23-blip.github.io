@@ -6,7 +6,7 @@ description: "Seoul ADEX 2023 (Seoul International Aerospace & Defense Exhibitio
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/x3aKh5YIG74/maxresdefault.jpg"
+  image: "/images/covers/x3aKh5YIG74.jpg"
   alt: "Seoul ADEX 2023 Aerobatics"
   relative: false
 videoID: "x3aKh5YIG74"

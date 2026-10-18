@@ -6,7 +6,7 @@ description: "서울특별시청 : https://maps.app.goo.gl/z8cBJiP67XMiG9kU9 Seo
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/gdbC4wheJhM/maxresdefault.jpg"
+  image: "/images/covers/gdbC4wheJhM.jpg"
   alt: "Seoul City Hall Gungisi Relic Site"
   relative: false
 videoID: "gdbC4wheJhM"

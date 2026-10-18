@@ -6,7 +6,7 @@ description: "광장시장 : https://maps.app.goo.gl/g1NUTb9kKxDxZR646 Gwangjang
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/ONyEM3CWY_A/maxresdefault.jpg"
+  image: "/images/covers/ONyEM3CWY_A.jpg"
   alt: "City Star Mall Walk"
   relative: false
 videoID: "ONyEM3CWY_A"

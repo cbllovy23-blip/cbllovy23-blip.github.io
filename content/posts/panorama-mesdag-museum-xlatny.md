@@ -6,7 +6,7 @@ description: "Museum Panorama Mesdag : https://maps.app.goo.gl/14HLWd9cdnmHxPoSA
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/xlaTnYWi9MI/maxresdefault.jpg"
+  image: "/images/covers/xlaTnYWi9MI.jpg"
   alt: "Panorama Mesdag Museum"
   relative: false
 videoID: "xlaTnYWi9MI"

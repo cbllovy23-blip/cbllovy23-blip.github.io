@@ -6,7 +6,7 @@ description: "여의도 벚꽃축제 : https://maps.app.goo.gl/LHtEYYcaasoZASBx8
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/tkiI-ZljYr8/maxresdefault.jpg"
+  image: "/images/covers/tkiI-ZljYr8.jpg"
   alt: "Yeouido Cherry Blossoms 2025"
   relative: false
 videoID: "tkiI-ZljYr8"

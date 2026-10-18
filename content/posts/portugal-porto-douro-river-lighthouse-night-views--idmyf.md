@@ -6,7 +6,7 @@ description: "Farolim de Felgueiras - Porto : https://maps.app.goo.gl/SraJeB4jmC
 tags: ["travelblog"]
 destinations: ["Porto"]
 cover:
-  image: "https://i.ytimg.com/vi/-idMYFSbQhQ/maxresdefault.jpg"
+  image: "/images/covers/-idMYFSbQhQ.jpg"
   alt: "Portugal Porto: Douro River Lighthouse & Night Views"
   relative: false
 videoID: "-idMYFSbQhQ"

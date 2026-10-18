@@ -6,7 +6,7 @@ description: "Experience a tranquil and peaceful walk along Busan's iconic Haeun
 tags: ["koreatravelvlog"]
 destinations: ["Busan"]
 cover:
-  image: "https://i.ytimg.com/vi/zko-bEhfvGo/maxresdefault.jpg"
+  image: "/images/covers/zko-bEhfvGo.jpg"
   alt: "Busan Haeundae Beach: A Tranquil Walk Along Korea's Coast"
   relative: false
 videoID: "zko-bEhfvGo"

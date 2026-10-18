@@ -6,7 +6,7 @@ description: "The Moorish Castle(Castelo dos Mouros) : https://maps.app.goo.gl/U
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/lTLlErt3DfA/maxresdefault.jpg"
+  image: "/images/covers/lTLlErt3DfA.jpg"
   alt: "Portugal: The Moorish Castle Walk"
   relative: false
 videoID: "lTLlErt3DfA"

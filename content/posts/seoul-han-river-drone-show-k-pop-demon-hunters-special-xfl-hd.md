@@ -6,7 +6,7 @@ description: "https://maps.app.goo.gl/4kQ3JAMqUDfFS6eK9"
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/XfL-Hd88eG0/maxresdefault.jpg"
+  image: "/images/covers/XfL-Hd88eG0.jpg"
   alt: "Seoul Han River Drone Show: K-Pop Demon Hunters Special"
   relative: false
 videoID: "XfL-Hd88eG0"

@@ -6,7 +6,7 @@ description: "Enjoy a tranquil stroll through the beautiful Slottsskogens Fruktl
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/tHRMk8ZccAE/maxresdefault.jpg"
+  image: "/images/covers/tHRMk8ZccAE.jpg"
   alt: "Sweden Göteborg: Slottsskogens park, Peaceful Walk with Penguins"
   relative: false
 videoID: "tHRMk8ZccAE"

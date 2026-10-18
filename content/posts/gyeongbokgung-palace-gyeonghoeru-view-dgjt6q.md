@@ -6,7 +6,7 @@ description: "경복궁 : https://maps.app.goo.gl/kDphqjtXxKMbv32n6 Gyeongbokgun
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/DGjt6QMW-Tc/maxresdefault.jpg"
+  image: "/images/covers/DGjt6QMW-Tc.jpg"
   alt: "Gyeongbokgung Palace & Gyeonghoeru View"
   relative: false
 videoID: "DGjt6QMW-Tc"

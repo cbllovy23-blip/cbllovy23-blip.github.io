@@ -6,7 +6,7 @@ description: "타임스퀘어 매드포갈릭, 연예인 못�
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/OWjJuugBA0g/maxresdefault.jpg"
+  image: "/images/covers/OWjJuugBA0g.jpg"
   alt: "타임스퀘어 매드포갈릭, 연예인 못봐서 아쉽지만 잘먹고 갑니다 ;D"
   relative: false
 videoID: "OWjJuugBA0g"

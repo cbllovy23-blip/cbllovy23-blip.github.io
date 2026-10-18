@@ -6,7 +6,7 @@ description: "Empire Hotel Hong Kong : https://maps.app.goo.gl/o8EUrSb2zymuroBv5
 tags: []
 destinations: ["Hong Kong"]
 cover:
-  image: "https://i.ytimg.com/vi/fi_ScXGM0lA/maxresdefault.jpg"
+  image: "/images/covers/fi_ScXGM0lA.jpg"
   alt: "Hong Kong Trip"
   relative: false
 videoID: "fi_ScXGM0lA"

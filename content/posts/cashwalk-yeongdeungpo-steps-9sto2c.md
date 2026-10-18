@@ -6,7 +6,7 @@ description: "Earned 100 won from 10,000 Cashwalk steps, then ate something tast
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/9sTO2cUaP_Q/hqdefault.jpg"
+  image: "/images/covers/9sTO2cUaP_Q.jpg"
   alt: "Cashwalk Yeongdeungpo Steps"
   relative: false
 videoID: "9sTO2cUaP_Q"

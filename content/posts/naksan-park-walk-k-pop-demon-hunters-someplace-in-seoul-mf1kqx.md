@@ -6,7 +6,7 @@ description: "Enjoy a peaceful daytime walk along the romantic streets of Seoul,
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/Mf1KQxUqR_g/maxresdefault.jpg"
+  image: "/images/covers/Mf1KQxUqR_g.jpg"
   alt: "Naksan Park Walk: K-Pop Demon Hunters someplace in Seoul"
   relative: false
 videoID: "Mf1KQxUqR_g"

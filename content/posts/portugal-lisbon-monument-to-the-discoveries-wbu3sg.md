@@ -6,7 +6,7 @@ description: "발견기념비(Padrão dos Descobrimentos) : https://maps.app.goo
 tags: ["travelblog"]
 destinations: ["Lisbon"]
 cover:
-  image: "https://i.ytimg.com/vi/Wbu3sgONy08/maxresdefault.jpg"
+  image: "/images/covers/Wbu3sgONy08.jpg"
   alt: "Portugal Lisbon: Monument to the Discoveries"
   relative: false
 videoID: "Wbu3sgONy08"

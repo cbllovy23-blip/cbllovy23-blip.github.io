@@ -6,7 +6,7 @@ description: "탈린(Tallinn) : https://maps.app.goo.gl/1o1onbT4nsYyjQ5z8 Tallin
 tags: []
 destinations: ["Tallinn"]
 cover:
-  image: "https://i.ytimg.com/vi/tQhdqyBINjU/maxresdefault.jpg"
+  image: "/images/covers/tQhdqyBINjU.jpg"
   alt: "Tallinn, Estonia"
   relative: false
 videoID: "tQhdqyBINjU"

@@ -6,7 +6,7 @@ description: "신분당선 : https://naver.me/xhzSMlgo Sinbundang Line: https://
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/01ihL7L-1rY/maxresdefault.jpg"
+  image: "/images/covers/01ihL7L-1rY.jpg"
   alt: "Sinbundang Line Tunnel View"
   relative: false
 videoID: "01ihL7L-1rY"

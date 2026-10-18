@@ -6,7 +6,7 @@ description: "오클랜드 동물원 위치 (Auckland Zoo Location): https://map
 tags: ["aucklandzoo", "newzealandtravel"]
 destinations: ["Auckland"]
 cover:
-  image: "https://i.ytimg.com/vi/AyKtkejugl0/maxresdefault.jpg"
+  image: "/images/covers/AyKtkejugl0.jpg"
   alt: "Auckland Zoo Walk: Meet New Zealand's Wildlife"
   relative: false
 videoID: "AyKtkejugl0"

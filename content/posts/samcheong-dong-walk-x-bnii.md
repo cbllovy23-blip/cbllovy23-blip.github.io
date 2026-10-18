@@ -6,7 +6,7 @@ description: "Part of the route from Samcheong-dong toward Insa-dong"
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/x-bniIepojA/maxresdefault.jpg"
+  image: "/images/covers/x-bniIepojA.jpg"
   alt: "Samcheong-dong Walk"
   relative: false
 videoID: "x-bniIepojA"

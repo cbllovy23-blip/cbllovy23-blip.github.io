@@ -6,7 +6,7 @@ description: "세실마루 : https://maps.app.goo.gl/gerKft7XGP6N8Qm28 Cecil Mar
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/-QEBYVEW6kc/maxresdefault.jpg"
+  image: "/images/covers/-QEBYVEW6kc.jpg"
   alt: "3 Gwanghwamun View Spots"
   relative: false
 videoID: "-QEBYVEW6kc"

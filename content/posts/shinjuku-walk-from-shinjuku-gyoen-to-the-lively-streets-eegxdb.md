@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, I started from Shinj
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/eEgxdbL3A5Y/maxresdefault.jpg"
+  image: "/images/covers/eEgxdbL3A5Y.jpg"
   alt: "Shinjuku Walk: From Shinjuku Gyoen to the Lively Streets"
   relative: false
 videoID: "eEgxdbL3A5Y"

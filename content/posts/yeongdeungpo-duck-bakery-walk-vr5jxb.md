@@ -6,7 +6,7 @@ description: "Duck Bakery: https://naver.me/FkdvWYs1 보라매공원 : https://p
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/vR5JxB4iz6w/hqdefault.jpg"
+  image: "/images/covers/vR5JxB4iz6w.jpg"
   alt: "Yeongdeungpo Duck Bakery Walk"
   relative: false
 videoID: "vR5JxB4iz6w"

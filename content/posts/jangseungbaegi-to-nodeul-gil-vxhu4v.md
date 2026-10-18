@@ -6,7 +6,7 @@ description: "Cafe Nito (Jangseungbaegi Station): https://naver.me/F8KnLcWG Baen
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/Vxhu4VkScYE/hqdefault.jpg"
+  image: "/images/covers/Vxhu4VkScYE.jpg"
   alt: "Jangseungbaegi to Nodeul-gil"
   relative: false
 videoID: "Vxhu4VkScYE"

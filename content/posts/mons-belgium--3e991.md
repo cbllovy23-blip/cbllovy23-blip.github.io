@@ -6,7 +6,7 @@ description: "Martin's Dream Hotel : https://maps.app.goo.gl/5vvUqZ4fYz31oAhe8 M
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/-3e991MAXMY/maxresdefault.jpg"
+  image: "/images/covers/-3e991MAXMY.jpg"
   alt: "Mons, Belgium"
   relative: false
 videoID: "-3e991MAXMY"

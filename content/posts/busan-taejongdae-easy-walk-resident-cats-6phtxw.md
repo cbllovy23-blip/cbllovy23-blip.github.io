@@ -6,7 +6,7 @@ description: "태종대 전망대 : https://maps.app.goo.gl/vSPfn8Ru69Kz5iMVA Ta
 tags: ["koreatravelvlog"]
 destinations: ["Busan"]
 cover:
-  image: "https://i.ytimg.com/vi/6pHtxwv2Uog/maxresdefault.jpg"
+  image: "/images/covers/6pHtxwv2Uog.jpg"
   alt: "Busan Taejongdae: Easy Walk & Resident Cats"
   relative: false
 videoID: "6pHtxwv2Uog"

@@ -6,7 +6,7 @@ description: "폰트커피 문래 : https://maps.app.goo.gl/6rsibRRUV5QXUvbY9 Fo
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/_N6IMlUEj2c/maxresdefault.jpg"
+  image: "/images/covers/_N6IMlUEj2c.jpg"
   alt: "Yeongdeungpo Cafe Tour"
   relative: false
 videoID: "_N6IMlUEj2c"

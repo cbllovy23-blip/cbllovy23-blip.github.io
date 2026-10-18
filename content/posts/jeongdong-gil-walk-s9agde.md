@@ -6,7 +6,7 @@ description: "정동길 : https://maps.app.goo.gl/voKaZuQ4xGX4kHDA7 Jeongdong-gi
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/s9aGDevL5lk/maxresdefault.jpg"
+  image: "/images/covers/s9aGDevL5lk.jpg"
   alt: "Jeongdong-gil Walk"
   relative: false
 videoID: "s9aGDevL5lk"

@@ -6,7 +6,7 @@ description: "리움미술관 : https://www.leeum.org/index.asp Leeum Museum of 
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/UGTOA7EcGgQ/hqdefault.jpg"
+  image: "/images/covers/UGTOA7EcGgQ.jpg"
   alt: "Hangangjin to Leeum Museum"
   relative: false
 videoID: "UGTOA7EcGgQ"

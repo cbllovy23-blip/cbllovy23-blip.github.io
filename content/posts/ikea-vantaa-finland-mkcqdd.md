@@ -6,7 +6,7 @@ description: "이케아 반타점(핀란드)(IKEA Vantaa) : https://maps.app.goo
 tags: []
 destinations: ["Helsinki"]
 cover:
-  image: "https://i.ytimg.com/vi/MkcQDdHyFBI/maxresdefault.jpg"
+  image: "/images/covers/MkcQDdHyFBI.jpg"
   alt: "IKEA Vantaa, Finland"
   relative: false
 videoID: "MkcQDdHyFBI"

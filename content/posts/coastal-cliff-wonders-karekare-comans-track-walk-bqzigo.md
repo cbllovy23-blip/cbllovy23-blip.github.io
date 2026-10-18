@@ -6,7 +6,7 @@ description: "https://maps.app.goo.gl/ds7BfW2gC3LnXaLF7 https://maps.app.goo.gl/
 tags: ["karekare", "newzealandtravel"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/BQZIgOFExls/maxresdefault.jpg"
+  image: "/images/covers/BQZIgOFExls.jpg"
   alt: "Coastal Cliff Wonders: Karekare Comans Track Walk"
   relative: false
 videoID: "BQZIgOFExls"

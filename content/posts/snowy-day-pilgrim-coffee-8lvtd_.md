@@ -6,7 +6,7 @@ description: "필그림커피 : https://maps.app.goo.gl/gG47Ynh5Wor6EAUJ6 Pilgri
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/8LVTD_zy11I/maxresdefault.jpg"
+  image: "/images/covers/8LVTD_zy11I.jpg"
   alt: "Snowy Day, Pilgrim Coffee"
   relative: false
 videoID: "8LVTD_zy11I"

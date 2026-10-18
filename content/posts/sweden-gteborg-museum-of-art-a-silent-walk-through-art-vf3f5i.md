@@ -6,7 +6,7 @@ description: "Experience a quiet moment with art at the Gothenburg Museum of Art
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/VF3F5IixTgs/maxresdefault.jpg"
+  image: "/images/covers/VF3F5IixTgs.jpg"
   alt: "Sweden Göteborg Museum of Art: A Silent Walk Through Art"
   relative: false
 videoID: "VF3F5IixTgs"

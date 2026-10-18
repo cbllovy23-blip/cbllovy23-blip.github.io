@@ -6,7 +6,7 @@ description: "엘리시안 강촌 : https://maps.app.goo.gl/nKN1YZ5GNC7y8QMm6 El
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/VleUnF8XDA8/maxresdefault.jpg"
+  image: "/images/covers/VleUnF8XDA8.jpg"
   alt: "Elysian Gangchon Resort"
   relative: false
 videoID: "VleUnF8XDA8"

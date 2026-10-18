@@ -6,7 +6,7 @@ description: "2024 King Jeongjo's Royal Procession Reenactment: https://kingjeon
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/U3TA4up1aFI/maxresdefault.jpg"
+  image: "/images/covers/U3TA4up1aFI.jpg"
   alt: "2024 King Jeongjo's Procession: Preparations"
   relative: false
 videoID: "U3TA4up1aFI"

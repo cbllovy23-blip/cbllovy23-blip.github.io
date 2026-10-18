@@ -6,7 +6,7 @@ description: "브뤼셀 : https://maps.app.goo.gl/c738k7ESnid92bhu7 Brussels: ht
 tags: []
 destinations: ["Brussels"]
 cover:
-  image: "https://i.ytimg.com/vi/b9aQajAo638/maxresdefault.jpg"
+  image: "/images/covers/b9aQajAo638.jpg"
   alt: "Brussels, Belgium"
   relative: false
 videoID: "b9aQajAo638"

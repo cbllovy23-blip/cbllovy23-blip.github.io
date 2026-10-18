@@ -6,7 +6,7 @@ description: "📝 본문 (Description) I spent a daytime visit exploring the Im
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/vtnyQ1QZRwc/maxresdefault.jpg"
+  image: "/images/covers/vtnyQ1QZRwc.jpg"
   alt: "Tokyo Imperial Palace: East Gardens & Moat Walk"
   relative: false
 videoID: "vtnyQ1QZRwc"

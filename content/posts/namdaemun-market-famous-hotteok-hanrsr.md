@@ -6,7 +6,7 @@ description: "남대문시장 : https://maps.app.goo.gl/e8FrYXKMULfoLxdT9 Namdae
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/HanrsRt3ogg/maxresdefault.jpg"
+  image: "/images/covers/HanrsRt3ogg.jpg"
   alt: "Namdaemun Market: Famous Hotteok"
   relative: false
 videoID: "HanrsRt3ogg"

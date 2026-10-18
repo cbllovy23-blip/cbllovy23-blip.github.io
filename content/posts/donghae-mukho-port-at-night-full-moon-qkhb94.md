@@ -6,7 +6,7 @@ description: "묵호 해랑전망대 : https://maps.app.goo.gl/ooo6Yk22ofdUMcdn6
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/QKhb944QGUk/maxresdefault.jpg"
+  image: "/images/covers/QKhb944QGUk.jpg"
   alt: "Donghae Mukho Port at Night: Full Moon"
   relative: false
 videoID: "QKhb944QGUk"

@@ -6,7 +6,7 @@ description: "서울로7017 : https://maps.app.goo.gl/DqvsNvSFPfbm39hE8 Seoullo 
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/VnUi6rnjNwg/maxresdefault.jpg"
+  image: "/images/covers/VnUi6rnjNwg.jpg"
   alt: "Seoullo 7017 & Seoul Station: Quiet Break"
   relative: false
 videoID: "VnUi6rnjNwg"

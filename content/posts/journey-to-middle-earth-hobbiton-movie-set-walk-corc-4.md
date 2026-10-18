@@ -6,7 +6,7 @@ description: "Take a walk through the magical and peaceful scenery of the Hobbit
 tags: ["hobbiton", "newzealand"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/COrC-4fzy8o/maxresdefault.jpg"
+  image: "/images/covers/COrC-4fzy8o.jpg"
   alt: "Journey to Middle-earth: Hobbiton™ Movie Set Walk"
   relative: false
 videoID: "COrC-4fzy8o"

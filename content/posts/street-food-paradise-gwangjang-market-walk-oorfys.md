@@ -6,7 +6,7 @@ description: "Take a walk through every corner of Gwangjang Market, the most ene
 tags: ["koreatravelvlog", "seoul", "streetfood"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/OORFYSTTm8o/maxresdefault.jpg"
+  image: "/images/covers/OORFYSTTm8o.jpg"
   alt: "Street Food Paradise: Gwangjang Market Walk"
   relative: false
 videoID: "OORFYSTTm8o"

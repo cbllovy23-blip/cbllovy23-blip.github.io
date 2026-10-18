@@ -6,7 +6,7 @@ description: "Pohang Space Walk: Korea's Winding Roller Coaster Art"
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/WtnEwAiG9oQ/maxresdefault.jpg"
+  image: "/images/covers/WtnEwAiG9oQ.jpg"
   alt: "Pohang Space Walk: Korea's Winding Roller Coaster Art"
   relative: false
 videoID: "WtnEwAiG9oQ"

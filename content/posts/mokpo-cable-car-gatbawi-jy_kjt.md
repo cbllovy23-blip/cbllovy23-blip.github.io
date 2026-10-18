@@ -6,7 +6,7 @@ description: "Mokpo Cable Car Bukhang Station: https://maps.app.goo.gl/ijVnFmK5i
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/JY_kjTv1vyg/maxresdefault.jpg"
+  image: "/images/covers/JY_kjTv1vyg.jpg"
   alt: "Mokpo Cable Car & Gatbawi"
   relative: false
 videoID: "JY_kjTv1vyg"

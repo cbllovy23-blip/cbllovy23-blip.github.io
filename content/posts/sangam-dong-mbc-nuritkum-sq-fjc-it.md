@@ -6,7 +6,7 @@ description: "MBC 문화방송 본사 : https://maps.app.goo.gl/XHDPGWam3cz86gsX
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/fjc-itRKE88/maxresdefault.jpg"
+  image: "/images/covers/fjc-itRKE88.jpg"
   alt: "Sangam-dong MBC & Nuritkum Sq"
   relative: false
 videoID: "fjc-itRKE88"

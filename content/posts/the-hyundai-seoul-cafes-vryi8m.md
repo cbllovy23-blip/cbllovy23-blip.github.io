@@ -6,7 +6,7 @@ description: "더현대서울 : https://www.ehyundai.com/newPortal/DP/DP000000_V
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/vryI8mzTYk0/hqdefault.jpg"
+  image: "/images/covers/vryI8mzTYk0.jpg"
   alt: "The Hyundai Seoul Cafes"
   relative: false
 videoID: "vryI8mzTYk0"

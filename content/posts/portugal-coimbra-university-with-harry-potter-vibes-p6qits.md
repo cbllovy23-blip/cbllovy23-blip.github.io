@@ -6,7 +6,7 @@ description: "포르투갈 코임브라(Coimbra) : https://maps.app.goo.gl/ktxWn
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/P6QITsAVWBc/maxresdefault.jpg"
+  image: "/images/covers/P6QITsAVWBc.jpg"
   alt: "Portugal Coimbra: University with Harry Potter Vibes"
   relative: false
 videoID: "P6QITsAVWBc"

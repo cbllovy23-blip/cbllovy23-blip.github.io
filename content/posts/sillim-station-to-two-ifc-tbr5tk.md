@@ -6,7 +6,7 @@ description: "Starts near Sillim Station Exit 3, at Yeongdeungpo Rotary 서울�
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/TBR5Tkdmlr0/hqdefault.jpg"
+  image: "/images/covers/TBR5Tkdmlr0.jpg"
   alt: "Sillim Station to Two IFC"
   relative: false
 videoID: "TBR5Tkdmlr0"

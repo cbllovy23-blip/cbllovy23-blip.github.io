@@ -6,7 +6,7 @@ description: "태어나서 처음 먹어보는 요거트~ 맛이 이상한듯 �
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/seiwanT07lw/hqdefault.jpg"
+  image: "/images/covers/seiwanT07lw.jpg"
   alt: "태어나서 처음 먹어보는 요거트~ 맛이 이상한듯 하면서 땡기는 맛~ ;D"
   relative: false
 videoID: "seiwanT07lw"

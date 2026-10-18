@@ -6,7 +6,7 @@ description: "Cheongnyangni Station Lotte Castle SKY-L65: https://maps.app.goo.g
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/8z4cRCXLiYM/maxresdefault.jpg"
+  image: "/images/covers/8z4cRCXLiYM.jpg"
   alt: "Cheongnyangni Station to Starbucks Gyeongdong 1960"
   relative: false
 videoID: "8z4cRCXLiYM"

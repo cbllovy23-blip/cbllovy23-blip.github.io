@@ -6,7 +6,7 @@ description: "Jardim da Praça do Império Praça do Império Garden https://map
 tags: ["travelblog"]
 destinations: ["Lisbon"]
 cover:
-  image: "https://i.ytimg.com/vi/DVukLigd3wI/maxresdefault.jpg"
+  image: "/images/covers/DVukLigd3wI.jpg"
   alt: "Lisbon Belém Area: Egg Tart Pilgrimage"
   relative: false
 videoID: "DVukLigd3wI"

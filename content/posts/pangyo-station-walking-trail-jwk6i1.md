@@ -6,7 +6,7 @@ description: "화랑공원 : https://maps.app.goo.gl/rHLNd9S9yPMz5Hfb7 Hwarang P
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/jWk6I1G1Mz0/maxresdefault.jpg"
+  image: "/images/covers/jWk6I1G1Mz0.jpg"
   alt: "Pangyo Station Walking Trail"
   relative: false
 videoID: "jWk6I1G1Mz0"

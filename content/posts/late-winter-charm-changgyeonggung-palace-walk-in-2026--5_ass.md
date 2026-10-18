@@ -6,7 +6,7 @@ description: "Take a walk through Seoul's Changgyeonggung Palace in February 202
 tags: ["koreatravelvlog", "seoul"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/-5_ASsjnnWE/maxresdefault.jpg"
+  image: "/images/covers/-5_ASsjnnWE.jpg"
   alt: "Late Winter Charm: Changgyeonggung Palace Walk in 2026"
   relative: false
 videoID: "-5_ASsjnnWE"

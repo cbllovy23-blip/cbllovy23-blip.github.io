@@ -6,7 +6,7 @@ description: "National Palace of Pena(Palácio Nacional da Pena) : https://maps.
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/CfKkcyfUYQw/maxresdefault.jpg"
+  image: "/images/covers/CfKkcyfUYQw.jpg"
   alt: "Portugal: Pena National Palace"
   relative: false
 videoID: "CfKkcyfUYQw"

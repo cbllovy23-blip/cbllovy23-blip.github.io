@@ -6,7 +6,7 @@ description: "Pohang Yeongildae Beach: https://maps.app.goo.gl/S3UxgcqfKVNzxZzc7
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/2bCZ_LL6f5g/maxresdefault.jpg"
+  image: "/images/covers/2bCZ_LL6f5g.jpg"
   alt: "Pohang Yeongildae Beach at Night"
   relative: false
 videoID: "2bCZ_LL6f5g"

@@ -6,7 +6,7 @@ description: "종묘광장공원 : https://maps.app.goo.gl/Si667aj8Fp5Ycr7K7 Jon
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/XN17ktDoKws/maxresdefault.jpg"
+  image: "/images/covers/XN17ktDoKws.jpg"
   alt: "Jongmyo Shrine Walk via Plaza Park"
   relative: false
 videoID: "XN17ktDoKws"

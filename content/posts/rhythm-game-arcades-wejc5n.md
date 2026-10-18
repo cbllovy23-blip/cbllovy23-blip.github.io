@@ -6,7 +6,7 @@ description: "Beat Lab (Nowon-gu, Seoul): https://naver.me/5kLk3Adm Drum games r
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/wEjC5N47MiQ/hqdefault.jpg"
+  image: "/images/covers/wEjC5N47MiQ.jpg"
   alt: "Rhythm Game Arcades"
   relative: false
 videoID: "wEjC5N47MiQ"

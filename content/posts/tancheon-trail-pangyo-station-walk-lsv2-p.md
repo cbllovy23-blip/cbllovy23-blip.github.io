@@ -6,7 +6,7 @@ description: "탄천길 : https://maps.app.goo.gl/Y3mewHtoBsAvLTRq7 Tancheon Tra
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/Lsv2-pXXJvg/maxresdefault.jpg"
+  image: "/images/covers/Lsv2-pXXJvg.jpg"
   alt: "Tancheon Trail: Pangyo Station Walk"
   relative: false
 videoID: "Lsv2-pXXJvg"

@@ -6,7 +6,7 @@ description: "본문 (Description) In May 2026, I took a leisurely walk around t
 tags: ["koreatravelblog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/XpjjNSHZZ1Y/maxresdefault.jpg"
+  image: "/images/covers/XpjjNSHZZ1Y.jpg"
   alt: "War Memorial of Korea: Golden Hour Outdoor Walk"
   relative: false
 videoID: "XpjjNSHZZ1Y"

@@ -6,7 +6,7 @@ description: "백령도 : https://maps.app.goo.gl/eqTe3Sv3BGn6vnRj8 Baengnyeongd
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/O513PLg5abI/maxresdefault.jpg"
+  image: "/images/covers/O513PLg5abI.jpg"
   alt: "Baengnyeongdo Island"
   relative: false
 videoID: "O513PLg5abI"

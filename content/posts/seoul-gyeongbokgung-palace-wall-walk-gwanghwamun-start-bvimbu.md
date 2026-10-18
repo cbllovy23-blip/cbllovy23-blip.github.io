@@ -6,7 +6,7 @@ description: "From Gwanghwamun Subway Station in Seoul, embark on a peaceful wal
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/bviMbuIUG2c/maxresdefault.jpg"
+  image: "/images/covers/bviMbuIUG2c.jpg"
   alt: "Seoul Gyeongbokgung Palace Wall Walk: Gwanghwamun Start"
   relative: false
 videoID: "bviMbuIUG2c"

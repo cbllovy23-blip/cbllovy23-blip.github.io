@@ -6,7 +6,7 @@ description: "Cabo da Roca : https://maps.app.goo.gl/1U2Liw6dm8Ts8RJd6 Cabo da R
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/AJyNDxPBO7A/maxresdefault.jpg"
+  image: "/images/covers/AJyNDxPBO7A.jpg"
   alt: "Portugal: Cabo da Roca Windy Walk"
   relative: false
 videoID: "AJyNDxPBO7A"

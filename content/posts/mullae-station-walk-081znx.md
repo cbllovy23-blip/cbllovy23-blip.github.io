@@ -6,7 +6,7 @@ description: "Mullae Library (Yeongdeungpo-gu): https://maps.app.goo.gl/LWxwPQmd
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/081zNxmPipk/maxresdefault.jpg"
+  image: "/images/covers/081zNxmPipk.jpg"
   alt: "Mullae Station Walk"
   relative: false
 videoID: "081zNxmPipk"

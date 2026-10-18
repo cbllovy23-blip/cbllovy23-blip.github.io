@@ -6,7 +6,7 @@ description: "Experience a silent journey through Changgyeonggung Palace in Seou
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/GYVluetCkZA/maxresdefault.jpg"
+  image: "/images/covers/GYVluetCkZA.jpg"
   alt: "Seoul Changgyeonggung Palace: A Quiet Walk Through History's Echoes"
   relative: false
 videoID: "GYVluetCkZA"

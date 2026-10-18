@@ -6,7 +6,7 @@ description: "📝 본문 (Description) I walked through Senso-ji Temple and the
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/dJQGxy7X3GQ/maxresdefault.jpg"
+  image: "/images/covers/dJQGxy7X3GQ.jpg"
   alt: "Asakusa & Senso-ji: Day to Night Walk"
   relative: false
 videoID: "dJQGxy7X3GQ"

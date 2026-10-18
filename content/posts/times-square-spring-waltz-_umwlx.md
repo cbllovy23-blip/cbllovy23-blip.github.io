@@ -6,7 +6,7 @@ description: "Times Square Spring Waltz 2024.3.22 ~ 4.28 / Atrium 1F On the hour
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/_uMWLxtzZjw/maxresdefault.jpg"
+  image: "/images/covers/_uMWLxtzZjw.jpg"
   alt: "Times Square Spring Waltz"
   relative: false
 videoID: "_uMWLxtzZjw"

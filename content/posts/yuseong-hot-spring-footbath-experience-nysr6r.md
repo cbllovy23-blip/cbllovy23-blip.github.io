@@ -6,7 +6,7 @@ description: "Yuseong Hot Spring Footbath: https://maps.app.goo.gl/182w8jrAAwUer
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/nysR6Rmu6AE/maxresdefault.jpg"
+  image: "/images/covers/nysR6Rmu6AE.jpg"
   alt: "Yuseong Hot Spring Footbath Experience"
   relative: false
 videoID: "nysR6Rmu6AE"

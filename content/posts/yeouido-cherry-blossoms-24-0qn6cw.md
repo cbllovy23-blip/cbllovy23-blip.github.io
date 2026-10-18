@@ -6,7 +6,7 @@ description: "노티드 여의도IFC : https://maps.app.goo.gl/xxbbYwoUorU8yhPN9
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/0qN6CwQ5I78/maxresdefault.jpg"
+  image: "/images/covers/0qN6CwQ5I78.jpg"
   alt: "Yeouido Cherry Blossoms '24"
   relative: false
 videoID: "0qN6CwQ5I78"

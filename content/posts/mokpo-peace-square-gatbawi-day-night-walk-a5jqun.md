@@ -6,7 +6,7 @@ description: "목포 평화광장 : https://maps.app.goo.gl/WVqrtRyj1MxEWKHN6 Mo
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/a5JquNwp6dQ/maxresdefault.jpg"
+  image: "/images/covers/a5JquNwp6dQ.jpg"
   alt: "Mokpo Peace Square & Gatbawi: Day & Night Walk"
   relative: false
 videoID: "a5JquNwp6dQ"

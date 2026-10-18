@@ -6,7 +6,7 @@ description: "Experience a special walking tour in Gothenburg, Sweden, the homel
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/Enh4NAtXH-A/maxresdefault.jpg"
+  image: "/images/covers/Enh4NAtXH-A.jpg"
   alt: "IKEA's Homeland! 🇸🇪 Göteborg Kållered IKEA Tour"
   relative: false
 videoID: "Enh4NAtXH-A"

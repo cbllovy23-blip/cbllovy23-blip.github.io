@@ -6,7 +6,7 @@ description: "https://maps.app.goo.gl/DgWgpbr5u4ULpRaCA https://maps.app.goo.gl/
 tags: ["bluespring", "newzealandtravel", "waitomo"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/dtotHphVB1s/maxresdefault.jpg"
+  image: "/images/covers/dtotHphVB1s.jpg"
   alt: "Pure Blue Magic: Putāruru Blue Spring"
   relative: false
 videoID: "dtotHphVB1s"

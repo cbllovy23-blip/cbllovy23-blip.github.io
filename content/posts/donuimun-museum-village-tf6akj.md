@@ -6,7 +6,7 @@ description: "돈의문 박물관 마을 : https://maps.app.goo.gl/cmTKwTE2PYnst
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/tf6akji5spE/maxresdefault.jpg"
+  image: "/images/covers/tf6akji5spE.jpg"
   alt: "Donuimun Museum Village"
   relative: false
 videoID: "tf6akji5spE"

@@ -6,7 +6,7 @@ description: "Embark on a journey through time in Gothenburg, Sweden, the heart 
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/LmNCigYGtzA/maxresdefault.jpg"
+  image: "/images/covers/LmNCigYGtzA.jpg"
   alt: "Volvo's History! 🇸🇪 Göteborg Volvo Museum Walking Tour"
   relative: false
 videoID: "LmNCigYGtzA"

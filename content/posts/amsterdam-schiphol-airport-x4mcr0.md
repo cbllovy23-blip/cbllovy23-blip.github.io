@@ -6,7 +6,7 @@ description: "암스테르담(Amsterdam) : https://maps.app.goo.gl/Yy3DpfHLzQ4TX
 tags: []
 destinations: ["Amsterdam"]
 cover:
-  image: "https://i.ytimg.com/vi/X4mcR0G9I_I/maxresdefault.jpg"
+  image: "/images/covers/X4mcR0G9I_I.jpg"
   alt: "Amsterdam & Schiphol Airport"
   relative: false
 videoID: "X4mcR0G9I_I"

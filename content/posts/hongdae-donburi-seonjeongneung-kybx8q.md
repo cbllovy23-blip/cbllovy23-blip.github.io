@@ -6,7 +6,7 @@ description: "Hongdae Donburi (Coex Mall branch): https://naver.me/FKKxDsea ì„œì
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/kYbX8qmWhy0/maxresdefault.jpg"
+  image: "/images/covers/kYbX8qmWhy0.jpg"
   alt: "Hongdae Donburi & Seonjeongneung"
   relative: false
 videoID: "kYbX8qmWhy0"

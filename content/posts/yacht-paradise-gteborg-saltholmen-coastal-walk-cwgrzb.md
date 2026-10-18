@@ -6,7 +6,7 @@ description: "Enjoy a peaceful stroll in the beautiful Saltholmen of Gothenburg,
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/cwgrZBXG4F4/maxresdefault.jpg"
+  image: "/images/covers/cwgrZBXG4F4.jpg"
   alt: "Yacht Paradise! 🇸🇪 Göteborg Saltholmen Coastal Walk"
   relative: false
 videoID: "cwgrZBXG4F4"

@@ -6,7 +6,7 @@ description: "벨렝탑(Torre de Belém) : https://maps.app.goo.gl/PVNez7Xra3nHT
 tags: ["travelblog"]
 destinations: ["Lisbon"]
 cover:
-  image: "https://i.ytimg.com/vi/uoaP6qCLug8/maxresdefault.jpg"
+  image: "/images/covers/uoaP6qCLug8.jpg"
   alt: "Portugal Lisbon: Belém Tower Walk"
   relative: false
 videoID: "uoaP6qCLug8"

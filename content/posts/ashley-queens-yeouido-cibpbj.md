@@ -6,7 +6,7 @@ description: "Ashley Queen's Yeouido Hangang Park: https://naver.me/FDQuhNmg So 
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/cIBPbJ0Vfks/maxresdefault.jpg"
+  image: "/images/covers/cIBPbJ0Vfks.jpg"
   alt: "Ashley Queen's Yeouido"
   relative: false
 videoID: "cIBPbJ0Vfks"

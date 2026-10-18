@@ -6,7 +6,7 @@ description: "더 현대 서울 : https://maps.app.goo.gl/e7t7kVibAJtJaBMa8 The 
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/IIQMiwct5Io/maxresdefault.jpg"
+  image: "/images/covers/IIQMiwct5Io.jpg"
   alt: "The Hyundai Seoul Bakeries"
   relative: false
 videoID: "IIQMiwct5Io"

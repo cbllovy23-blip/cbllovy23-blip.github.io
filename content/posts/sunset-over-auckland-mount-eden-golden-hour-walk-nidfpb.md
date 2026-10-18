@@ -6,7 +6,7 @@ description: "Experience the breathtaking sunset from the summit of Mount Eden (
 tags: ["auckland", "mteden", "newzealand"]
 destinations: ["Auckland"]
 cover:
-  image: "https://i.ytimg.com/vi/nidfpB3GDfM/maxresdefault.jpg"
+  image: "/images/covers/nidfpB3GDfM.jpg"
   alt: "Sunset over Auckland: Mount Eden Golden Hour Walk"
   relative: false
 videoID: "nidfpB3GDfM"

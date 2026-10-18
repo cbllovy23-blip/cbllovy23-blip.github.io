@@ -6,7 +6,7 @@ description: "In April 2026, I took a leisurely walk from Yeongdeungpo toward Se
 tags: ["koreatravel", "seoul"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/HBxux-WJoHw/maxresdefault.jpg"
+  image: "/images/covers/HBxux-WJoHw.jpg"
   alt: "2026 Yeouido Cherry Blossom Festival: Walking from Yeongdeungpo"
   relative: false
 videoID: "HBxux-WJoHw"

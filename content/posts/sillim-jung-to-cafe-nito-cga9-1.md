@@ -6,7 +6,7 @@ description: "스시센 : https://maps.app.goo.gl/5pLrDCYBY9B7UF886 Sushisen: ht
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/cgA9-1QFhaU/maxresdefault.jpg"
+  image: "/images/covers/cgA9-1QFhaU.jpg"
   alt: "Sillim-jung to Cafe Nito"
   relative: false
 videoID: "cgA9-1QFhaU"

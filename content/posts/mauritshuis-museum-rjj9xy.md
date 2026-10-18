@@ -6,7 +6,7 @@ description: "마우리츠하위스 박물관(Nederland Mauritshuis) : https://m
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/RjJ9XYtsYIk/maxresdefault.jpg"
+  image: "/images/covers/RjJ9XYtsYIk.jpg"
   alt: "Mauritshuis Museum"
   relative: false
 videoID: "RjJ9XYtsYIk"

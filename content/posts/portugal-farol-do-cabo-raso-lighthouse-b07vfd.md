@@ -6,7 +6,7 @@ description: "Farol do Cabo Raso : https://maps.app.goo.gl/dmha5HCKsHKqLMKb6 Far
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/b07vFDmVsm0/maxresdefault.jpg"
+  image: "/images/covers/b07vFDmVsm0.jpg"
   alt: "Portugal: Farol do Cabo Raso Lighthouse"
   relative: false
 videoID: "b07vFDmVsm0"

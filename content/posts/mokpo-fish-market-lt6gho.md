@@ -6,7 +6,7 @@ description: "Mokpo General Fisheries Market: https://maps.app.goo.gl/U4YDpSie5c
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/LT6ghogSunM/maxresdefault.jpg"
+  image: "/images/covers/LT6ghogSunM.jpg"
   alt: "Mokpo Fish Market"
   relative: false
 videoID: "LT6ghogSunM"

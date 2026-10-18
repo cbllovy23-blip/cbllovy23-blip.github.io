@@ -6,7 +6,7 @@ description: "Take a walk along the rugged and majestic nature of Piha Beach, an
 tags: ["newzealandtravel", "piha"]
 destinations: ["Auckland"]
 cover:
-  image: "https://i.ytimg.com/vi/ShPr5_ds1ZE/maxresdefault.jpg"
+  image: "/images/covers/ShPr5_ds1ZE.jpg"
   alt: "Piha Beach Walk: New Zealand's Wild Black Sand Beauty"
   relative: false
 videoID: "ShPr5_ds1ZE"

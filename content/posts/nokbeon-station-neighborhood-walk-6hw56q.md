@@ -6,7 +6,7 @@ description: "Nokbeon Station e-Pyeonhansesang Castle: https://maps.app.goo.gl/A
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/6hw56Qr7rV4/maxresdefault.jpg"
+  image: "/images/covers/6hw56Qr7rV4.jpg"
   alt: "Nokbeon Station Neighborhood Walk"
   relative: false
 videoID: "6hw56Qr7rV4"

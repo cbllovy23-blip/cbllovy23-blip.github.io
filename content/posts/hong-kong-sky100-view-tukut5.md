@@ -6,7 +6,7 @@ description: "SKY 100 : https://maps.app.goo.gl/gH7VKugrpp33LWsp8 Hong Kong Symp
 tags: []
 destinations: ["Hong Kong"]
 cover:
-  image: "https://i.ytimg.com/vi/tukUT5DFvsM/maxresdefault.jpg"
+  image: "/images/covers/tukUT5DFvsM.jpg"
   alt: "Hong Kong SKY100 View"
   relative: false
 videoID: "tukUT5DFvsM"

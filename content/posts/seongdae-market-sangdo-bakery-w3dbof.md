@@ -6,7 +6,7 @@ description: "Seongdae Traditional Market, located at Sindaebang Samgeori Statio
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/w3dBoFtHAyk/hqdefault.jpg"
+  image: "/images/covers/w3dBoFtHAyk.jpg"
   alt: "Seongdae Market & Sangdo Bakery"
   relative: false
 videoID: "w3dBoFtHAyk"

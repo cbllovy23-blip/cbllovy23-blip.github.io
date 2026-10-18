@@ -6,7 +6,7 @@ description: "광안리 해수욕장 : https://maps.app.goo.gl/UNw48C81cSNvVwzq9
 tags: ["koreatravelvlog"]
 destinations: ["Busan"]
 cover:
-  image: "https://i.ytimg.com/vi/rdTtWk58aTc/maxresdefault.jpg"
+  image: "/images/covers/rdTtWk58aTc.jpg"
   alt: "Busan Gwangalli Coastal Walk"
   relative: false
 videoID: "rdTtWk58aTc"

@@ -6,7 +6,7 @@ description: "Luís I Bridge(Ponte Luís I) : https://maps.app.goo.gl/G5Z4yjVANM
 tags: ["travelblog"]
 destinations: ["Porto"]
 cover:
-  image: "https://i.ytimg.com/vi/k_LY0yYd9Ug/maxresdefault.jpg"
+  image: "/images/covers/k_LY0yYd9Ug.jpg"
   alt: "Portugal Porto: Morning to Evening City Walk"
   relative: false
 videoID: "k_LY0yYd9Ug"

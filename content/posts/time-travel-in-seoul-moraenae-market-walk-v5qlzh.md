@@ -6,7 +6,7 @@ description: "Recorded the nostalgic daytime scenery of Moraenae Market, a place
 tags: ["koreatravel", "seoulmarket"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/v5qlzHk77j8/maxresdefault.jpg"
+  image: "/images/covers/v5qlzHk77j8.jpg"
   alt: "Time Travel in Seoul: Moraenae Market Walk"
   relative: false
 videoID: "v5qlzHk77j8"

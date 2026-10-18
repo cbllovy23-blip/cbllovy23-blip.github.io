@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, I spent time around 
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/M9la0F_NmMY/maxresdefault.jpg"
+  image: "/images/covers/M9la0F_NmMY.jpg"
   alt: "Shiba Park & Tokyo Tower: Day to Night Walk"
   relative: false
 videoID: "M9la0F_NmMY"

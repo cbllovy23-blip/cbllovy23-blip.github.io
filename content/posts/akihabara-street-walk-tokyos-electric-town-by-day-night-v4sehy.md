@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, I took a leisurely d
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/V4SEhyz7zvM/maxresdefault.jpg"
+  image: "/images/covers/V4SEhyz7zvM.jpg"
   alt: "Akihabara Street Walk: Tokyo's Electric Town by Day & Night"
   relative: false
 videoID: "V4SEhyz7zvM"

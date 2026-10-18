@@ -6,7 +6,7 @@ description: "Discover the journey to the beautiful Kitekite Falls, located in P
 tags: ["newzealandtravel", "piha"]
 destinations: ["Auckland"]
 cover:
-  image: "https://i.ytimg.com/vi/RRQq4iDsVK8/maxresdefault.jpg"
+  image: "/images/covers/RRQq4iDsVK8.jpg"
   alt: "Kitekite Falls Walk: New Zealand's Lush Forest Waterfall"
   relative: false
 videoID: "RRQq4iDsVK8"

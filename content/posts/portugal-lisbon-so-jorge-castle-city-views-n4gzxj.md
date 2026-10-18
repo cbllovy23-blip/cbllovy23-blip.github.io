@@ -6,7 +6,7 @@ description: "Portugal Lisbon São Jorge Castle: https://maps.app.goo.gl/uPWdhPR
 tags: ["travelblog"]
 destinations: ["Lisbon"]
 cover:
-  image: "https://i.ytimg.com/vi/n4gzxJOsSTM/maxresdefault.jpg"
+  image: "/images/covers/n4gzxJOsSTM.jpg"
   alt: "Portugal Lisbon: São Jorge Castle City Views"
   relative: false
 videoID: "n4gzxJOsSTM"

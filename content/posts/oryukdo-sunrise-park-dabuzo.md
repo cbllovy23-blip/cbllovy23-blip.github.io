@@ -6,7 +6,7 @@ description: "Oryukdo Sunrise Park: https://maps.app.goo.gl/KG37YPceDjiDF7VeA"
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/DaBUzoPWA_o/maxresdefault.jpg"
+  image: "/images/covers/DaBUzoPWA_o.jpg"
   alt: "Oryukdo Sunrise Park"
   relative: false
 videoID: "DaBUzoPWA_o"

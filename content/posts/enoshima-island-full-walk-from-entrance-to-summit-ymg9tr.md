@@ -6,7 +6,7 @@ description: "📝 본문 (Description) After walking from Kamakura, I arrived a
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/yMg9trw11HA/maxresdefault.jpg"
+  image: "/images/covers/yMg9trw11HA.jpg"
   alt: "Enoshima Island: Full Walk from Entrance to Summit"
   relative: false
 videoID: "yMg9trw11HA"

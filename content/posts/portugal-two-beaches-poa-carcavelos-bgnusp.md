@@ -6,7 +6,7 @@ description: "Poça Beach(Praia da Poça) : https://maps.app.goo.gl/9pTyX31MJP6j
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/bGnuSPjvPLQ/maxresdefault.jpg"
+  image: "/images/covers/bGnuSPjvPLQ.jpg"
   alt: "Portugal: Two Beaches, Poça & Carcavelos"
   relative: false
 videoID: "bGnuSPjvPLQ"

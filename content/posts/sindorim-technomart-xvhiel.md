@@ -6,7 +6,7 @@ description: "Sindorim Technomart: https://maps.app.goo.gl/8drDPZFx443EuNoz6 Web
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/XVhIELsBKVY/maxresdefault.jpg"
+  image: "/images/covers/XVhIELsBKVY.jpg"
   alt: "Sindorim Technomart"
   relative: false
 videoID: "XVhIELsBKVY"

@@ -6,7 +6,7 @@ description: "Take a peaceful stroll along the beautiful coastline of Sillviksba
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/Zo3r7Oog3KI/maxresdefault.jpg"
+  image: "/images/covers/Zo3r7Oog3KI.jpg"
   alt: "Sweden Göteborg Hidden Gem: Sillviksbadet Beach Peaceful Walk"
   relative: false
 videoID: "Zo3r7Oog3KI"

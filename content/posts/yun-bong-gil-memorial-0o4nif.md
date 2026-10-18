@@ -6,7 +6,7 @@ description: "Yun Bong-gil Memorial Hall: https://maps.app.goo.gl/bLYuNWN8XwsQd2
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/0O4Nif3z_tc/maxresdefault.jpg"
+  image: "/images/covers/0O4Nif3z_tc.jpg"
   alt: "Yun Bong-gil Memorial"
   relative: false
 videoID: "0O4Nif3z_tc"

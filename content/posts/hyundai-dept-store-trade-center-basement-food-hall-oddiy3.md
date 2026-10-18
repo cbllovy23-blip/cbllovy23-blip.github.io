@@ -6,7 +6,7 @@ description: "I didn't know there was a Gordon Ramsay restaurant here... Hyundai
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/oDdiY3wFi3Y/maxresdefault.jpg"
+  image: "/images/covers/oDdiY3wFi3Y.jpg"
   alt: "Hyundai Dept. Store Trade Center: Basement Food Hall"
   relative: false
 videoID: "oDdiY3wFi3Y"

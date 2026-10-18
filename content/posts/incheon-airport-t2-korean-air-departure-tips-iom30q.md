@@ -6,7 +6,7 @@ description: "Seoul Station AREX (Airport Railroad): https://maps.app.goo.gl/3VA
 tags: ["koreatravelvlog"]
 destinations: ["Seoul", "Incheon"]
 cover:
-  image: "https://i.ytimg.com/vi/IOm30qcyAsc/maxresdefault.jpg"
+  image: "/images/covers/IOm30qcyAsc.jpg"
   alt: "Incheon Airport T2: Korean Air Departure Tips"
   relative: false
 videoID: "IOm30qcyAsc"

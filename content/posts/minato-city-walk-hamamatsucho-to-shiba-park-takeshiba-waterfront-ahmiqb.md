@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, I captured Minato Ci
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/AHMIqbz4Ujw/maxresdefault.jpg"
+  image: "/images/covers/AHMIqbz4Ujw.jpg"
   alt: "Minato City Walk: Hamamatsucho to Shiba Park & Takeshiba Waterfront"
   relative: false
 videoID: "AHMIqbz4Ujw"

@@ -6,7 +6,7 @@ description: "홍철책빵 : https://maps.app.goo.gl/gaz6JwPvUwS34EN8A Hongcheol
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/IxKhfF9yvug/maxresdefault.jpg"
+  image: "/images/covers/IxKhfF9yvug.jpg"
   alt: "Huam-dong Walk"
   relative: false
 videoID: "IxKhfF9yvug"

@@ -6,7 +6,7 @@ description: "In February 2026, take a full-loop walk through the history of Suw
 tags: ["hwaseongfortress", "koreatravel", "suwon"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/HggxCuqssrY/maxresdefault.jpg"
+  image: "/images/covers/HggxCuqssrY.jpg"
   alt: "Suwon Fortress Loop: Walls, Vibes"
   relative: false
 videoID: "HggxCuqssrY"

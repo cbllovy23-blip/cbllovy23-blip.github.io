@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, this video follows t
 tags: ["travelblog"]
 destinations: ["Tokyo", "Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/_kBmlZxQIhs/maxresdefault.jpg"
+  image: "/images/covers/_kBmlZxQIhs.jpg"
   alt: "Haneda Airport & Mt. Fuji View from the Sky"
   relative: false
 videoID: "_kBmlZxQIhs"

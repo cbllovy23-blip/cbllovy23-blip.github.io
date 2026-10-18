@@ -6,7 +6,7 @@ description: "Jinhaeru Beach Park: https://naver.me/5HtPAsVR 슬로우오븐 : h
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/W3sFEZn28NU/maxresdefault.jpg"
+  image: "/images/covers/W3sFEZn28NU.jpg"
   alt: "Jinhaeru Beach Park Walk"
   relative: false
 videoID: "W3sFEZn28NU"

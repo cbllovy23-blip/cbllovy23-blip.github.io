@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, I took a leisurely w
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/Is0GdGHwnNU/maxresdefault.jpg"
+  image: "/images/covers/Is0GdGHwnNU.jpg"
   alt: "Shinjuku Gyoen: A Peaceful Green Walk in Central Tokyo"
   relative: false
 videoID: "Is0GdGHwnNU"

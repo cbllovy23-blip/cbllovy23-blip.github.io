@@ -6,7 +6,7 @@ description: "Step into the serene beauty of Deokjeokdo Island's Seopo Welbeing 
 tags: ["koreatravelvlog"]
 destinations: ["Incheon"]
 cover:
-  image: "https://i.ytimg.com/vi/5m4-wB4Gvko/maxresdefault.jpg"
+  image: "/images/covers/5m4-wB4Gvko.jpg"
   alt: "Deokjeokdo Seopo Welbeing Trail: Pine Forest Scented Walk"
   relative: false
 videoID: "5m4-wB4Gvko"

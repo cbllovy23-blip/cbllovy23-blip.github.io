@@ -6,7 +6,7 @@ description: "📝 본문 (Description) I timed a quick visit to Ginza to coinci
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/GDaf8veto3Q/maxresdefault.jpg"
+  image: "/images/covers/GDaf8veto3Q.jpg"
   alt: "Ginza Pedestrian Paradise: A Short Daytime Stroll"
   relative: false
 videoID: "GDaf8veto3Q"

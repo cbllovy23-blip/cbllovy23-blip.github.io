@@ -6,7 +6,7 @@ description: "광장시장 : https://naver.me/xFprKyPp Gwangjang Market: https:/
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/CZkAUCQYkTk/maxresdefault.jpg"
+  image: "/images/covers/CZkAUCQYkTk.jpg"
   alt: "Gwangjang Market to Lotte Dept"
   relative: false
 videoID: "CZkAUCQYkTk"

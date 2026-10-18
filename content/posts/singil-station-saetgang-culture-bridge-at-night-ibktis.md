@@ -6,7 +6,7 @@ description: "신길역 : https://maps.app.goo.gl/Tn5mPq9TU4LSoBUb8 Singil Stati
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/ibkTIs9FtwY/maxresdefault.jpg"
+  image: "/images/covers/ibkTIs9FtwY.jpg"
   alt: "Singil Station & Saetgang Culture Bridge at Night"
   relative: false
 videoID: "ibkTIs9FtwY"

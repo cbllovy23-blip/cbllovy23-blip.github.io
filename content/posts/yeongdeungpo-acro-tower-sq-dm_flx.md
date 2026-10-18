@@ -6,7 +6,7 @@ description: "Yeongdeungpo Acro Tower Square: https://naver.me/5ncPbKZX Im Tae-h
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/DM_fLxtBgwg/maxresdefault.jpg"
+  image: "/images/covers/DM_fLxtBgwg.jpg"
   alt: "Yeongdeungpo Acro Tower Sq"
   relative: false
 videoID: "DM_fLxtBgwg"

@@ -6,7 +6,7 @@ description: "2024 Armed Forces Day Street Parade (Seoul)"
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/TR64JDxrlW0/maxresdefault.jpg"
+  image: "/images/covers/TR64JDxrlW0.jpg"
   alt: "2024 Armed Forces Day Parade: Starting Point"
   relative: false
 videoID: "TR64JDxrlW0"

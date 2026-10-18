@@ -6,7 +6,7 @@ description: "월미테마파크 : https://maps.app.goo.gl/bTYzP67bfUbQjaUi9 Wol
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/nxd8Ta5c9_U/maxresdefault.jpg"
+  image: "/images/covers/nxd8Ta5c9_U.jpg"
   alt: "Wolmido Theme Park"
   relative: false
 videoID: "nxd8Ta5c9_U"

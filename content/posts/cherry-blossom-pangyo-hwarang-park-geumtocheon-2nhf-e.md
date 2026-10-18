@@ -6,7 +6,7 @@ description: "Take a walk along the cherry blossom path near Pangyo Hwarang Park
 tags: ["koreatravel", "pangyo"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/2nhf-edvpNQ/maxresdefault.jpg"
+  image: "/images/covers/2nhf-edvpNQ.jpg"
   alt: "Cherry Blossom: Pangyo Hwarang Park & Geumtocheon"
   relative: false
 videoID: "2nhf-edvpNQ"

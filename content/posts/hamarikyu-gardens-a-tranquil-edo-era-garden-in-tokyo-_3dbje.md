@@ -6,7 +6,7 @@ description: "📝 본문 (Description) I spent a daytime visit exploring Hamari
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/_3DbJe0ZBvY/maxresdefault.jpg"
+  image: "/images/covers/_3DbJe0ZBvY.jpg"
   alt: "Hamarikyu Gardens: A Tranquil Edo-Era Garden in Tokyo"
   relative: false
 videoID: "_3DbJe0ZBvY"

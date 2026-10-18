@@ -6,7 +6,7 @@ description: "📝 본문 (Description) I spent a full day walking through Shibu
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/wwI_XRh4rRA/maxresdefault.jpg"
+  image: "/images/covers/wwI_XRh4rRA.jpg"
   alt: "Shibuya Walk: Scramble Crossing & Street Vibes Day to Night"
   relative: false
 videoID: "wwI_XRh4rRA"

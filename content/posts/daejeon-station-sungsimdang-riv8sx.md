@@ -6,7 +6,7 @@ description: "Sungsimdang Daejeon Station branch If you're buying bread on your 
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/riv8sXxSJdA/maxresdefault.jpg"
+  image: "/images/covers/riv8sXxSJdA.jpg"
   alt: "Daejeon Station & Sungsimdang"
   relative: false
 videoID: "riv8sXxSJdA"

@@ -6,7 +6,7 @@ description: "aespa The 4th Mini Album Drama aespa WEEK - DRAMA CITY Pop-up loca
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/e4oj-P57o6s/maxresdefault.jpg"
+  image: "/images/covers/e4oj-P57o6s.jpg"
   alt: "aespa Pop-up & Mad for Garlic"
   relative: false
 videoID: "e4oj-P57o6s"

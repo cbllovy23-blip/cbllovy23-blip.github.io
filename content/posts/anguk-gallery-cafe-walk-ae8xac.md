@@ -6,7 +6,7 @@ description: "Terarosa (MMCA Seoul branch): https://naver.me/GPrFrQhR Constituti
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/AE8XAcruKks/maxresdefault.jpg"
+  image: "/images/covers/AE8XAcruKks.jpg"
   alt: "Anguk Gallery & Cafe Walk"
   relative: false
 videoID: "AE8XAcruKks"

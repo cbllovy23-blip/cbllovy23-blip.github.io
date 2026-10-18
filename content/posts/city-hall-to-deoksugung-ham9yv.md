@@ -6,7 +6,7 @@ description: "서울광장 : https://maps.app.goo.gl/Kfm1KxovxH5rTYAV8 Seoul Pla
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/HAM9yvAqooE/maxresdefault.jpg"
+  image: "/images/covers/HAM9yvAqooE.jpg"
   alt: "City Hall to Deoksugung"
   relative: false
 videoID: "HAM9yvAqooE"

@@ -6,7 +6,7 @@ description: "고투몰 : http://gotomall.kr/ GoToMall: http://gotomall.kr/ Nolb
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/LMO_WYnJVd4/hqdefault.jpg"
+  image: "/images/covers/LMO_WYnJVd4.jpg"
   alt: "Express Bus Terminal Underground"
   relative: false
 videoID: "LMO_WYnJVd4"

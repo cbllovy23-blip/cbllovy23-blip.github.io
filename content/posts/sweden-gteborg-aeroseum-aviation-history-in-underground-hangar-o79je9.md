@@ -6,7 +6,7 @@ description: "Begin a silent exploration at Aeroseum, a unique aviation museum i
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/o79je97jRrM/maxresdefault.jpg"
+  image: "/images/covers/o79je97jRrM.jpg"
   alt: "Sweden Göteborg Aeroseum: Aviation History in Underground Hangar"
   relative: false
 videoID: "o79je97jRrM"

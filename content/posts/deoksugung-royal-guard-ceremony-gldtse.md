@@ -6,7 +6,7 @@ description: "덕수궁 : https://maps.app.goo.gl/FLJ2oSkRTskZBWcp9 Deoksugung P
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/gLdTseGE6L0/maxresdefault.jpg"
+  image: "/images/covers/gLdTseGE6L0.jpg"
   alt: "Deoksugung Royal Guard Ceremony"
   relative: false
 videoID: "gLdTseGE6L0"

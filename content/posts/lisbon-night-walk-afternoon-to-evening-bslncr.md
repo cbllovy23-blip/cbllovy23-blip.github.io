@@ -6,7 +6,7 @@ description: "Viewpoints 1. Time Out Market Lisboa https://maps.app.goo.gl/buVvS
 tags: ["travelblog"]
 destinations: ["Lisbon"]
 cover:
-  image: "https://i.ytimg.com/vi/bslnCrAuJEc/maxresdefault.jpg"
+  image: "/images/covers/bslnCrAuJEc.jpg"
   alt: "Lisbon Night Walk: Afternoon to Evening"
   relative: false
 videoID: "bslnCrAuJEc"

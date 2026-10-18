@@ -6,7 +6,7 @@ description: "Samcheong Park intersection, Okhojeong site: toward the Jongno 11 
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/l3ipzC_rSHY/maxresdefault.jpg"
+  image: "/images/covers/l3ipzC_rSHY.jpg"
   alt: "MMCA to Sungnyemun Walk"
   relative: false
 videoID: "l3ipzC_rSHY"

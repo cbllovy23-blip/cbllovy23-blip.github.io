@@ -6,7 +6,7 @@ description: "여의도 한강공원 : https://hangang.seoul.go.kr/www/contents/
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/lW9k18v-19I/maxresdefault.jpg"
+  image: "/images/covers/lW9k18v-19I.jpg"
   alt: "BTS FESTA Yeouido Hangang"
   relative: false
 videoID: "lW9k18v-19I"

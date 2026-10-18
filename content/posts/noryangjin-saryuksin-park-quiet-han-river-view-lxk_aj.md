@@ -6,7 +6,7 @@ description: "사육신공원 : https://maps.app.goo.gl/Nu87zoGwgUumEegA7 Saryuk
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/LXk_ajovha8/maxresdefault.jpg"
+  image: "/images/covers/LXk_ajovha8.jpg"
   alt: "Noryangjin Saryuksin Park: Quiet Han River View"
   relative: false
 videoID: "LXk_ajovha8"

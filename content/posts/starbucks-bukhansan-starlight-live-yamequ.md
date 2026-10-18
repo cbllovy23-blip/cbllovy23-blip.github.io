@@ -6,7 +6,7 @@ description: "You can check the Starlight Live performance schedule on the Starb
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/yaMeQUKsK3Y/maxresdefault.jpg"
+  image: "/images/covers/yaMeQUKsK3Y.jpg"
   alt: "Starbucks Bukhansan Starlight Live"
   relative: false
 videoID: "yaMeQUKsK3Y"

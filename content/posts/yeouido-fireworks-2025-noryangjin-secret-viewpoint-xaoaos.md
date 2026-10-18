@@ -6,7 +6,7 @@ description: "Watch the spectacular 2025 Seoul Yeouido Fireworks Festival in sil
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/XaoaOsmBMLo/maxresdefault.jpg"
+  image: "/images/covers/XaoaOsmBMLo.jpg"
   alt: "Yeouido Fireworks 2025: Noryangjin Secret Viewpoint"
   relative: false
 videoID: "XaoaOsmBMLo"

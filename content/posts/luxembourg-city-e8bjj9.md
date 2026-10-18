@@ -6,7 +6,7 @@ description: "룩셈부르크(Luxembourg) : https://maps.app.goo.gl/UayNNmX2zcQo
 tags: []
 destinations: ["Luxembourg"]
 cover:
-  image: "https://i.ytimg.com/vi/E8BJj9zYV8k/maxresdefault.jpg"
+  image: "/images/covers/E8BJj9zYV8k.jpg"
   alt: "Luxembourg City"
   relative: false
 videoID: "E8BJj9zYV8k"

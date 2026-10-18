@@ -6,7 +6,7 @@ description: "만동제과 : https://maps.app.goo.gl/C37sNGh2WHurzfwJ8 Mandong B
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/CYFifZH8XkY/maxresdefault.jpg"
+  image: "/images/covers/CYFifZH8XkY.jpg"
   alt: "Mapo Roastery Cafe Tour"
   relative: false
 videoID: "CYFifZH8XkY"

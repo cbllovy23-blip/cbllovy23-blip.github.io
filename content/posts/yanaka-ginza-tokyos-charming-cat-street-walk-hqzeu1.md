@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, I took a walk throug
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/hQZEu11jjnQ/maxresdefault.jpg"
+  image: "/images/covers/hQZEu11jjnQ.jpg"
   alt: "Yanaka Ginza: Tokyo's Charming Cat Street Walk"
   relative: false
 videoID: "hQZEu11jjnQ"

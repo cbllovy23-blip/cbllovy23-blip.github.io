@@ -6,7 +6,7 @@ description: "Haruhanal Bangbae: https://naver.me/F0waYI76 Starbucks Naebang Sta
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/_YrgdLKWLps/hqdefault.jpg"
+  image: "/images/covers/_YrgdLKWLps.jpg"
   alt: "Bangbae to Banpo Simsan Hall"
   relative: false
 videoID: "_YrgdLKWLps"

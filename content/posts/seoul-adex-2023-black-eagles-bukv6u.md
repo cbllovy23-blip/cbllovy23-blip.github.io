@@ -6,7 +6,7 @@ description: "Seoul ADEX 2023 (Seoul International Aerospace & Defense Exhibitio
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/BUKV6uOlCgM/maxresdefault.jpg"
+  image: "/images/covers/BUKV6uOlCgM.jpg"
   alt: "Seoul ADEX 2023 Black Eagles"
   relative: false
 videoID: "BUKV6uOlCgM"

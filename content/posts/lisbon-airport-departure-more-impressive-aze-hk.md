@@ -6,7 +6,7 @@ description: "리스본 포르텔라 국제공항(Aeroporto Internacional de Lis
 tags: ["travelblog"]
 destinations: ["Lisbon", "Porto"]
 cover:
-  image: "https://i.ytimg.com/vi/Aze-HKzHlFI/maxresdefault.jpg"
+  image: "/images/covers/Aze-HKzHlFI.jpg"
   alt: "Lisbon Airport: Departure More Impressive"
   relative: false
 videoID: "Aze-HKzHlFI"

@@ -6,7 +6,7 @@ description: "(Helsinki) Hotelli Holiday Inn Helsinki - Ruoholahti : https://map
 tags: []
 destinations: ["Helsinki"]
 cover:
-  image: "https://i.ytimg.com/vi/BiMLxXCHnVA/maxresdefault.jpg"
+  image: "/images/covers/BiMLxXCHnVA.jpg"
   alt: "Helsinki + Espoo"
   relative: false
 videoID: "BiMLxXCHnVA"

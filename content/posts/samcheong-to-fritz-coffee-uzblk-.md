@@ -6,7 +6,7 @@ description: "삼청공원 : https://naver.me/xjLbwTQS Samcheong Park: https://n
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/UzBLk-APRrI/maxresdefault.jpg"
+  image: "/images/covers/UzBLk-APRrI.jpg"
   alt: "Samcheong to Fritz Coffee"
   relative: false
 videoID: "UzBLk-APRrI"

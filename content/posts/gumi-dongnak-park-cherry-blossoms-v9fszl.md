@@ -6,7 +6,7 @@ description: "구미 동락공원 : https://maps.app.goo.gl/Zq5VqvtFTMsDJLrP8 Gu
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/V9fSZLhegeU/maxresdefault.jpg"
+  image: "/images/covers/V9fSZLhegeU.jpg"
   alt: "Gumi Dongnak Park: Cherry Blossoms"
   relative: false
 videoID: "V9fSZLhegeU"

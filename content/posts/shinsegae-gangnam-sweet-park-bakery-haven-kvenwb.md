@@ -6,7 +6,7 @@ description: "Shinsegae Gangnam Sweet Park: https://maps.app.goo.gl/vk1qXxrifwc4
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/KveNwBymXj8/maxresdefault.jpg"
+  image: "/images/covers/KveNwBymXj8.jpg"
   alt: "Shinsegae Gangnam Sweet Park: Bakery Haven"
   relative: false
 videoID: "KveNwBymXj8"

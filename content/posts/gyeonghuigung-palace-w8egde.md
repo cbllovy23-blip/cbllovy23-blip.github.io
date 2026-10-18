@@ -6,7 +6,7 @@ description: "경희궁 : https://maps.app.goo.gl/EAbg6WDPX8FewFiq5 Gyeonghuigun
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/w8EGdeT5Fm4/maxresdefault.jpg"
+  image: "/images/covers/w8EGdeT5Fm4.jpg"
   alt: "Gyeonghuigung Palace"
   relative: false
 videoID: "w8EGdeT5Fm4"

@@ -6,7 +6,7 @@ description: "Enjoy a tranquil stroll through Haga, Gothenburg's historic distri
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/lbvO-wJbg4E/maxresdefault.jpg"
+  image: "/images/covers/lbvO-wJbg4E.jpg"
   alt: "Sweden Göteborg Haga Street: Silent Walk in Historic Charm"
   relative: false
 videoID: "lbvO-wJbg4E"

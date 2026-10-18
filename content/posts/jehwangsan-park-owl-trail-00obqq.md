@@ -6,7 +6,7 @@ description: "제황산공원 : https://maps.app.goo.gl/NoitCqnWqE57kKYaA Jehwan
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/00oBQq5tqRY/maxresdefault.jpg"
+  image: "/images/covers/00oBQq5tqRY.jpg"
   alt: "Jehwangsan Park Owl Trail"
   relative: false
 videoID: "00oBQq5tqRY"

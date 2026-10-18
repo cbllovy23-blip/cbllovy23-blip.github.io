@@ -6,7 +6,7 @@ description: "This video captures a silent exploration of Gothenburg city center
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/atehOlwFgyw/maxresdefault.jpg"
+  image: "/images/covers/atehOlwFgyw.jpg"
   alt: "Göteborg City Walk: Few Days of Silent Urban Exploration"
   relative: false
 videoID: "atehOlwFgyw"

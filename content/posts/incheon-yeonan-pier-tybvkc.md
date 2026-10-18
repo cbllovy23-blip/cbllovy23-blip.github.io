@@ -6,7 +6,7 @@ description: "상트페테르부르크 광장(Sq. Saint Peterburg) : https://map
 tags: []
 destinations: ["Incheon"]
 cover:
-  image: "https://i.ytimg.com/vi/TyBvKcHH9Dg/maxresdefault.jpg"
+  image: "/images/covers/TyBvKcHH9Dg.jpg"
   alt: "Incheon Yeonan Pier"
   relative: false
 videoID: "TyBvKcHH9Dg"

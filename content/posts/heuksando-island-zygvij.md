@@ -6,7 +6,7 @@ description: "Heuksan Culture & Tourism Hotel: https://maps.app.goo.gl/ZSs5pGfyX
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/zygViJY8rQM/maxresdefault.jpg"
+  image: "/images/covers/zygViJY8rQM.jpg"
   alt: "Heuksando Island"
   relative: false
 videoID: "zygViJY8rQM"

@@ -6,7 +6,7 @@ description: "명동대성당 : https://maps.app.goo.gl/6eomq5eydmXcubFw7 Myeong
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/-NsLPb9doXk/maxresdefault.jpg"
+  image: "/images/covers/-NsLPb9doXk.jpg"
   alt: "Myeongdong Cathedral & Street Walk"
   relative: false
 videoID: "-NsLPb9doXk"

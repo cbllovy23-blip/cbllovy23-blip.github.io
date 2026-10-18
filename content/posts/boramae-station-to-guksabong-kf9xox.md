@@ -6,7 +6,7 @@ description: "Mammoth Express Boramae Xi: https://naver.me/FYaScZ2d Seongdae Tra
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/Kf9XoXX558c/maxresdefault.jpg"
+  image: "/images/covers/Kf9XoXX558c.jpg"
   alt: "Boramae Station to Guksabong"
   relative: false
 videoID: "Kf9XoXX558c"

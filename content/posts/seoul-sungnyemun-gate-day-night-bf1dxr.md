@@ -6,7 +6,7 @@ description: "서울 숭례문 : https://maps.app.goo.gl/ixJYwsj8RS3129vRA Seoul
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/BF1DXrJsorc/maxresdefault.jpg"
+  image: "/images/covers/BF1DXrJsorc.jpg"
   alt: "Seoul Sungnyemun Gate: Day & Night"
   relative: false
 videoID: "BF1DXrJsorc"

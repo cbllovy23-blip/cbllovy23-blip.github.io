@@ -6,7 +6,7 @@ description: "Dongguk University Seoul Campus: https://maps.app.goo.gl/44agZJFWr
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/LWI96GIgKKU/maxresdefault.jpg"
+  image: "/images/covers/LWI96GIgKKU.jpg"
   alt: "Dongguk University Seoul Campus"
   relative: false
 videoID: "LWI96GIgKKU"

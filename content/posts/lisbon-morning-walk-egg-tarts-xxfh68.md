@@ -6,7 +6,7 @@ description: "Viewpoints 1. Miradouro da Senhora do Monte - západ slunce (Mirad
 tags: ["travelblog"]
 destinations: ["Lisbon"]
 cover:
-  image: "https://i.ytimg.com/vi/XxFH68XgIeU/maxresdefault.jpg"
+  image: "/images/covers/XxFH68XgIeU.jpg"
   alt: "Lisbon Morning Walk & Egg Tarts"
   relative: false
 videoID: "XxFH68XgIeU"

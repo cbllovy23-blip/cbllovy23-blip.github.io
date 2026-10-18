@@ -6,7 +6,7 @@ description: "📝 본문 (Description) I visited the iconic railway crossing ne
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/N2bTAzVEBak/maxresdefault.jpg"
+  image: "/images/covers/N2bTAzVEBak.jpg"
   alt: "Kamakura to Fujisawa: Slam Dunk Crossing & Enoshima Line Walk"
   relative: false
 videoID: "N2bTAzVEBak"

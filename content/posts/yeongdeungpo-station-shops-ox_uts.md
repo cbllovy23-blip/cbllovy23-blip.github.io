@@ -6,7 +6,7 @@ description: "Yeongdeung Market Pop-up: 2023.9.22–9.24 / Yeongdeungpo Station 
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/oX_uTs2TBx4/hqdefault.jpg"
+  image: "/images/covers/oX_uTs2TBx4.jpg"
   alt: "Yeongdeungpo Station Shops"
   relative: false
 videoID: "oX_uTs2TBx4"

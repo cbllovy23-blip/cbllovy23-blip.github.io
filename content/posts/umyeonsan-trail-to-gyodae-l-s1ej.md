@@ -6,7 +6,7 @@ description: "Umyeonsan Trailhead: https://naver.me/FEJWSSdV Oh Byung-ho Bakery 
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/L-s1eJvr8DY/maxresdefault.jpg"
+  image: "/images/covers/L-s1eJvr8DY.jpg"
   alt: "Umyeonsan Trail to Gyodae"
   relative: false
 videoID: "L-s1eJvr8DY"

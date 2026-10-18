@@ -6,7 +6,7 @@ description: "가배도 시청점 : https://maps.app.goo.gl/QTs2yfKsfsFkxFGG7 Ga
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/TupYftXut0A/maxresdefault.jpg"
+  image: "/images/covers/TupYftXut0A.jpg"
   alt: "City Hall Cafes"
   relative: false
 videoID: "TupYftXut0A"

@@ -6,7 +6,7 @@ description: "Disney 100th Anniversary Pop-up Store Dates: 23.8.24 ~ 9.24 Locati
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/Yzo5KfPXabc/maxresdefault.jpg"
+  image: "/images/covers/Yzo5KfPXabc.jpg"
   alt: "The Hyundai Seoul Disney Pop-up"
   relative: false
 videoID: "Yzo5KfPXabc"

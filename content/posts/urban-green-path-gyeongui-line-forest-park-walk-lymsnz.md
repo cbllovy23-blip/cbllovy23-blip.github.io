@@ -6,7 +6,7 @@ description: "Take a walk through the entire stretch of Gyeongui Line Forest Par
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/LYmsnZiPDJQ/maxresdefault.jpg"
+  image: "/images/covers/LYmsnZiPDJQ.jpg"
   alt: "Urban Green Path: Gyeongui Line Forest Park Walk"
   relative: false
 videoID: "LYmsnZiPDJQ"

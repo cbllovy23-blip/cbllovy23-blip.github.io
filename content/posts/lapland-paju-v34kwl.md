@@ -6,7 +6,7 @@ description: "라플란드 : https://naver.me/5gir6ZTn Lapland: https://naver.me
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/v34KWLutINg/hqdefault.jpg"
+  image: "/images/covers/v34KWLutINg.jpg"
   alt: "Lapland, Paju"
   relative: false
 videoID: "v34KWLutINg"

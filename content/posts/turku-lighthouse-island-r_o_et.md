@@ -6,7 +6,7 @@ description: "Skäret Loistokari : https://maps.app.goo.gl/934FKxFJMja1cqNr7 Lig
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/R_O_EtoGcpw/maxresdefault.jpg"
+  image: "/images/covers/R_O_EtoGcpw.jpg"
   alt: "Turku Lighthouse Island"
   relative: false
 videoID: "R_O_EtoGcpw"

@@ -6,7 +6,7 @@ description: "Naantalin kylpylä – Naantali Spa Hotel & Resort : https://maps.
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/egfbASrzXEE/maxresdefault.jpg"
+  image: "/images/covers/egfbASrzXEE.jpg"
   alt: "Naantali Spa Hotel Walk"
   relative: false
 videoID: "egfbASrzXEE"

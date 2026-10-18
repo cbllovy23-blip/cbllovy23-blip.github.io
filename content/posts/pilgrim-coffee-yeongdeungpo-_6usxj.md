@@ -6,7 +6,7 @@ description: "필그림커피 : https://maps.app.goo.gl/MKnaVfujx9t2hBbc9 Pilgri
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/_6uSXjcRgPE/maxresdefault.jpg"
+  image: "/images/covers/_6uSXjcRgPE.jpg"
   alt: "Pilgrim Coffee Yeongdeungpo"
   relative: false
 videoID: "_6uSXjcRgPE"

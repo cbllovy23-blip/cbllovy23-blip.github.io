@@ -6,7 +6,7 @@ description: "안양시청 : https://naver.me/GzgLslZB Anyang City Hall: https:/
 tags: []
 destinations: ["Hong Kong"]
 cover:
-  image: "https://i.ytimg.com/vi/F4-hTLUcVzU/maxresdefault.jpg"
+  image: "/images/covers/F4-hTLUcVzU.jpg"
   alt: "Anyang Double-Decker Bus"
   relative: false
 videoID: "F4-hTLUcVzU"

@@ -6,7 +6,7 @@ description: "인동향교 : https://maps.app.goo.gl/fRs85Kx1XjNMDkqm7 Indong Co
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/jtmK4nKQO-A/maxresdefault.jpg"
+  image: "/images/covers/jtmK4nKQO-A.jpg"
   alt: "Gumi Indong Confucian School Area Walk"
   relative: false
 videoID: "jtmK4nKQO-A"

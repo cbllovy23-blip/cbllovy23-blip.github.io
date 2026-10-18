@@ -6,7 +6,7 @@ description: "광안리 해수욕장 : https://maps.app.goo.gl/U9WEhSuedXwL2GJa7
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/1g5DWxnQsd0/maxresdefault.jpg"
+  image: "/images/covers/1g5DWxnQsd0.jpg"
   alt: "Gwangalli Beach"
   relative: false
 videoID: "1g5DWxnQsd0"

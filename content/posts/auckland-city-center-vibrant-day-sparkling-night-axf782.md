@@ -6,7 +6,7 @@ description: "위치 (Locations): https://maps.app.goo.gl/GBfPnAVnWkKg9YNm9"
 tags: ["auckland", "newzealandtravel"]
 destinations: ["Auckland"]
 cover:
-  image: "https://i.ytimg.com/vi/AXF782B2MjU/maxresdefault.jpg"
+  image: "/images/covers/AXF782B2MjU.jpg"
   alt: "Auckland City Center: Vibrant Day & Sparkling Night"
   relative: false
 videoID: "AXF782B2MjU"

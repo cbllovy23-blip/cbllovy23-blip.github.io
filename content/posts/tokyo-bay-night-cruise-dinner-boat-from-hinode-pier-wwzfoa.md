@@ -6,7 +6,7 @@ description: "📝 본문 (Description) I boarded a cruise departing from Hinode
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/WwzfOAxz4PY/maxresdefault.jpg"
+  image: "/images/covers/WwzfOAxz4PY.jpg"
   alt: "Tokyo Bay Night Cruise: Dinner Boat from Hinode Pier"
   relative: false
 videoID: "WwzfOAxz4PY"

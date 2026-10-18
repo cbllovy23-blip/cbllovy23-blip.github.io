@@ -6,7 +6,7 @@ description: "Starbucks The Bukhansan: https://maps.app.goo.gl/xLNqVXPMi1zEcuhn7
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/B22sP-32tWE/maxresdefault.jpg"
+  image: "/images/covers/B22sP-32tWE.jpg"
   alt: "Starbucks Bukhansan: Accessible by Public Transit"
   relative: false
 videoID: "B22sP-32tWE"

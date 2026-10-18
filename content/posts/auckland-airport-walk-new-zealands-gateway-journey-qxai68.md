@@ -6,7 +6,7 @@ description: "https://maps.app.goo.gl/iNNE2Y7mr8ixvp9E6 오클랜드 공항 주�
 tags: ["newzealandtravel"]
 destinations: ["Auckland"]
 cover:
-  image: "https://i.ytimg.com/vi/QXai68bioJE/maxresdefault.jpg"
+  image: "/images/covers/QXai68bioJE.jpg"
   alt: "Auckland Airport Walk: New Zealand's Gateway Journey"
   relative: false
 videoID: "QXai68bioJE"

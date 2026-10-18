@@ -6,7 +6,7 @@ description: "Step into the secluded beauty of Changdeokgung Palace's Secret Gar
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/ZOFIUmPuJtk/maxresdefault.jpg"
+  image: "/images/covers/ZOFIUmPuJtk.jpg"
   alt: "Seoul Changdeokgung Palace's Secret Garden: A Tranquil Royal"
   relative: false
 videoID: "ZOFIUmPuJtk"

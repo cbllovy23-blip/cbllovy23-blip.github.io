@@ -6,7 +6,7 @@ description: "이케아 광명점 : https://maps.app.goo.gl/XHU7BuBFBy4DtR2BA IK
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/V9Ps5GItrcA/maxresdefault.jpg"
+  image: "/images/covers/V9Ps5GItrcA.jpg"
   alt: "IKEA Gwangmyeong"
   relative: false
 videoID: "V9Ps5GItrcA"

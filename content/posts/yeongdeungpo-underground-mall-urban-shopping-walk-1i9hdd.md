@@ -6,7 +6,7 @@ description: "I explored the Yeongdeungpo Underground Mall, connected to Yeongde
 tags: ["koreatravelblog", "영등포", "지하상가"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/1i9hDDmMqjo/maxresdefault.jpg"
+  image: "/images/covers/1i9hDDmMqjo.jpg"
   alt: "Yeongdeungpo Underground Mall: Urban Shopping Walk"
   relative: false
 videoID: "1i9hDDmMqjo"

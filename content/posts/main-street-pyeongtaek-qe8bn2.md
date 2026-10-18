@@ -6,7 +6,7 @@ description: "메인스트리트 : https://maps.app.goo.gl/BTzBDrxHt1tjc41H8 Mai
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/qE8BN2WsRGA/maxresdefault.jpg"
+  image: "/images/covers/qE8BN2WsRGA.jpg"
   alt: "Main Street, Pyeongtaek"
   relative: false
 videoID: "qE8BN2WsRGA"

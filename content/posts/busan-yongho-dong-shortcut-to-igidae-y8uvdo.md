@@ -6,7 +6,7 @@ description: "이기대 : https://maps.app.goo.gl/UEdsuYPVD7P6f9FGA Igidae: http
 tags: ["koreatravelvlog"]
 destinations: ["Busan"]
 cover:
-  image: "https://i.ytimg.com/vi/Y8uVDOhEC-M/maxresdefault.jpg"
+  image: "/images/covers/Y8uVDOhEC-M.jpg"
   alt: "Busan Yongho-dong: Shortcut to Igidae"
   relative: false
 videoID: "Y8uVDOhEC-M"

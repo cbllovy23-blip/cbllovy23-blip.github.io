@@ -6,7 +6,7 @@ description: "덕적도 : https://maps.app.goo.gl/oGdMaE7JPmMGZAxWA Deokjeokdo I
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/YRdnHq9tDi0/maxresdefault.jpg"
+  image: "/images/covers/YRdnHq9tDi0.jpg"
   alt: "Deokjeokdo Island"
   relative: false
 videoID: "YRdnHq9tDi0"

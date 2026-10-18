@@ -6,7 +6,7 @@ description: "브뤼허 : https://maps.app.goo.gl/fwgBCPopnqKQY6mR9 Bruges: http
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/yQOAHaOxQ1w/maxresdefault.jpg"
+  image: "/images/covers/yQOAHaOxQ1w.jpg"
   alt: "Bruges, Belgium"
   relative: false
 videoID: "yQOAHaOxQ1w"

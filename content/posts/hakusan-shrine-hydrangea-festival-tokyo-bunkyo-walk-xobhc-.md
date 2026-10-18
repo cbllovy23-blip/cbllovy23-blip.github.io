@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, I visited the Hydran
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/xObhc-oSYZk/maxresdefault.jpg"
+  image: "/images/covers/xObhc-oSYZk.jpg"
   alt: "Hakusan Shrine Hydrangea Festival: Tokyo Bunkyo Walk"
   relative: false
 videoID: "xObhc-oSYZk"

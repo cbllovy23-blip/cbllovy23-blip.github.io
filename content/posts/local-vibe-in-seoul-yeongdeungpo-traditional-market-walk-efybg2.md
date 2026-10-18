@@ -6,7 +6,7 @@ description: "Take a walk through the vibrant daytime scenery of Yeongdeungpo Tr
 tags: ["koreatravelvlog", "seoul"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/eFyBg2Kr1Kk/maxresdefault.jpg"
+  image: "/images/covers/eFyBg2Kr1Kk.jpg"
   alt: "Local Vibe in Seoul: Yeongdeungpo Traditional Market Walk"
   relative: false
 videoID: "eFyBg2Kr1Kk"

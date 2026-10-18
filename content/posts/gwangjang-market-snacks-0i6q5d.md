@@ -6,7 +6,7 @@ description: "보람연합의원 : https://maps.app.goo.gl/pksvwU5nBRUPV2Zj6 Bor
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/0I6Q5dj6rL4/maxresdefault.jpg"
+  image: "/images/covers/0I6Q5dj6rL4.jpg"
   alt: "Gwangjang Market Snacks"
   relative: false
 videoID: "0I6Q5dj6rL4"

@@ -6,7 +6,7 @@ description: "Recorded the peaceful scenery of Jinhae Yeojwacheon Stream encount
 tags: ["koreatravelvlog", "여좌천", "진해"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/ezrykAwcCnE/maxresdefault.jpg"
+  image: "/images/covers/ezrykAwcCnE.jpg"
   alt: "[진해] Peaceful Jinhae Yeojwacheon Walk"
   relative: false
 videoID: "ezrykAwcCnE"

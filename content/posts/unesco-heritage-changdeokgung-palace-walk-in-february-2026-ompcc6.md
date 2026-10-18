@@ -6,7 +6,7 @@ description: "Take a walk through the elegant scenery of Changdeokgung Palace, a
 tags: ["koreatravelvlog", "seoul"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/ompcC62q4MA/maxresdefault.jpg"
+  image: "/images/covers/ompcC62q4MA.jpg"
   alt: "UNESCO Heritage: Changdeokgung Palace Walk in February 2026"
   relative: false
 videoID: "ompcC62q4MA"

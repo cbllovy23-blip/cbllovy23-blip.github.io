@@ -6,7 +6,7 @@ description: "Seoul Arts Center World Music Fountain: https://maps.app.goo.gl/zM
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/jcDTk83cT5o/maxresdefault.jpg"
+  image: "/images/covers/jcDTk83cT5o.jpg"
   alt: "Seoul Arts Center Fountain Show"
   relative: false
 videoID: "jcDTk83cT5o"

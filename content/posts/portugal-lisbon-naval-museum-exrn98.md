@@ -6,7 +6,7 @@ description: "Museu de Marinha : https://maps.app.goo.gl/bbjgEdAAFFAKX2eL8 Naval
 tags: ["travelblog"]
 destinations: ["Lisbon"]
 cover:
-  image: "https://i.ytimg.com/vi/ExrN98WkgOU/maxresdefault.jpg"
+  image: "/images/covers/ExrN98WkgOU.jpg"
   alt: "Portugal Lisbon: Naval Museum"
   relative: false
 videoID: "ExrN98WkgOU"

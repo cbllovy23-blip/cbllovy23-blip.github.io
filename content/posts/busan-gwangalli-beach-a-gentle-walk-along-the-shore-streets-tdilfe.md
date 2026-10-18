@@ -6,7 +6,7 @@ description: "Experience a tranquil journey along Busan's famous Gwangalli Beach
 tags: ["koreatravelvlog"]
 destinations: ["Busan"]
 cover:
-  image: "https://i.ytimg.com/vi/TdiLFeFT61Q/maxresdefault.jpg"
+  image: "/images/covers/TdiLFeFT61Q.jpg"
   alt: "Busan Gwangalli Beach: A Gentle Walk Along the Shore & Streets"
   relative: false
 videoID: "TdiLFeFT61Q"

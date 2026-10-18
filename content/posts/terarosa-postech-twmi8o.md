@@ -6,7 +6,7 @@ description: "Located inside a building on the POSTECH campus; no parking fee on
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/TwmI8o-fBS8/maxresdefault.jpg"
+  image: "/images/covers/TwmI8o-fBS8.jpg"
   alt: "Terarosa POSTECH"
   relative: false
 videoID: "TwmI8o-fBS8"

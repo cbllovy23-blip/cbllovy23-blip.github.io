@@ -6,7 +6,7 @@ description: "서초 우면산 숲길 : https://maps.app.goo.gl/BYoWhsHx6GZ4zsJM
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/7O2EH7mUVOo/maxresdefault.jpg"
+  image: "/images/covers/7O2EH7mUVOo.jpg"
   alt: "Seocho Umyeonsan Forest Trail to Arts Center"
   relative: false
 videoID: "7O2EH7mUVOo"

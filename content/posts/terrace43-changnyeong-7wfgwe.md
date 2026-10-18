@@ -6,7 +6,7 @@ description: "테라스43 : https://maps.app.goo.gl/rpLiDqBXWNKeKHPd8 Terrace43:
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/7WFgwe4Y6kQ/maxresdefault.jpg"
+  image: "/images/covers/7WFgwe4Y6kQ.jpg"
   alt: "Terrace43, Changnyeong"
   relative: false
 videoID: "7WFgwe4Y6kQ"

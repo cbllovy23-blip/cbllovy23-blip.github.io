@@ -6,7 +6,7 @@ description: "Self-paid, not sponsored.^^ Seoul Yeongdeungpo-gu, short walk from
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/0FUGfoPyz4o/maxresdefault.jpg"
+  image: "/images/covers/0FUGfoPyz4o.jpg"
   alt: "Pilgrim Coffee: Yeongdeungpo's Best Latte"
   relative: false
 videoID: "0FUGfoPyz4o"

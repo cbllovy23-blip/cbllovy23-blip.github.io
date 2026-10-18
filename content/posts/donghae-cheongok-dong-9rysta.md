@@ -6,7 +6,7 @@ description: "Hanseom Beach: https://naver.me/xorG8kzl Hanok Dongan-jae Stay: ht
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/9RYSTaYDmkw/maxresdefault.jpg"
+  image: "/images/covers/9RYSTaYDmkw.jpg"
   alt: "Donghae Cheongok-dong"
   relative: false
 videoID: "9RYSTaYDmkw"

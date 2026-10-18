@@ -6,7 +6,7 @@ description: "Bakehouse(Tai Wong St E.) : https://maps.app.goo.gl/mXDKaVCeLiBJPQ
 tags: []
 destinations: ["Hong Kong"]
 cover:
-  image: "https://i.ytimg.com/vi/OFebUAFLjc4/hqdefault.jpg"
+  image: "/images/covers/OFebUAFLjc4.jpg"
   alt: "Hong Kong Food I Tried"
   relative: false
 videoID: "OFebUAFLjc4"

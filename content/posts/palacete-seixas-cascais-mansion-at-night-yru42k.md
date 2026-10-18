@@ -6,7 +6,7 @@ description: "Palacete Seixas : https://maps.app.goo.gl/kjwww8iGFK37ZyQA9 Palace
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/yRU42KEO15s/maxresdefault.jpg"
+  image: "/images/covers/yRU42KEO15s.jpg"
   alt: "Palacete Seixas: Cascais Mansion at Night"
   relative: false
 videoID: "yRU42KEO15s"

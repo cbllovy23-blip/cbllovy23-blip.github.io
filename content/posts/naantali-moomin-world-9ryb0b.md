@@ -6,7 +6,7 @@ description: "난탈리(Naantali) : https://maps.app.goo.gl/5TedFHHH8gJRfyGL9 Na
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/9rYB0BFPcL0/maxresdefault.jpg"
+  image: "/images/covers/9rYB0BFPcL0.jpg"
   alt: "Naantali & Moomin World"
   relative: false
 videoID: "9rYB0BFPcL0"

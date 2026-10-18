@@ -6,7 +6,7 @@ description: "Starfield Coex Mall: https://naver.me/5ITZLJOP Starfield Library: 
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/s_E1BYjeA1M/maxresdefault.jpg"
+  image: "/images/covers/s_E1BYjeA1M.jpg"
   alt: "Coex Mall Early Morning"
   relative: false
 videoID: "s_E1BYjeA1M"

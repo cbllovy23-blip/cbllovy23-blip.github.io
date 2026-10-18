@@ -6,7 +6,7 @@ description: "환구단(원구단) : https://maps.app.goo.gl/sgTNGc1LaYY5S5UJ8 H
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/9091RGfuVRw/maxresdefault.jpg"
+  image: "/images/covers/9091RGfuVRw.jpg"
   alt: "Hwangudan Altar Near Lotte Hotel Seoul"
   relative: false
 videoID: "9091RGfuVRw"

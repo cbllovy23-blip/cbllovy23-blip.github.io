@@ -6,7 +6,7 @@ description: "Step into the serene beauty of Changdeokgung Palace in Seoul, a UN
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/azSMkQpiiGA/maxresdefault.jpg"
+  image: "/images/covers/azSMkQpiiGA.jpg"
   alt: "Seoul Changdeokgung Palace: A Quiet Walk Through Royal History"
   relative: false
 videoID: "azSMkQpiiGA"

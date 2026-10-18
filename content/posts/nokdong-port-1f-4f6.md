@@ -6,7 +6,7 @@ description: "Hotel Sun Beach: https://naver.me/5TvmaS09 Nokdong Port Sea Garden
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/1F-4f6SarHE/maxresdefault.jpg"
+  image: "/images/covers/1F-4f6SarHE.jpg"
   alt: "Nokdong Port"
   relative: false
 videoID: "1F-4f6SarHE"

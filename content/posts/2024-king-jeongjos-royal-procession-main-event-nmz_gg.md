@@ -6,7 +6,7 @@ description: "2024 King Jeongjo's Royal Procession Reenactment: https://kingjeon
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/nmz_gG-X_J0/maxresdefault.jpg"
+  image: "/images/covers/nmz_gG-X_J0.jpg"
   alt: "2024 King Jeongjo's Royal Procession: Main Event"
   relative: false
 videoID: "nmz_gG-X_J0"

@@ -6,7 +6,7 @@ description: "인천공항 1터미널 : https://maps.app.goo.gl/XLCVpQEinFVNpCyu
 tags: []
 destinations: ["Incheon"]
 cover:
-  image: "https://i.ytimg.com/vi/Seq1Aqqi57I/maxresdefault.jpg"
+  image: "/images/covers/Seq1Aqqi57I.jpg"
   alt: "Incheon Airport T1"
   relative: false
 videoID: "Seq1Aqqi57I"

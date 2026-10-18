@@ -6,7 +6,7 @@ description: "Take a walk along the urban trail from Yeongdeungpo Station to Sin
 tags: ["koreatravel", "seoul"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/1qO3KHc4T0o/maxresdefault.jpg"
+  image: "/images/covers/1qO3KHc4T0o.jpg"
   alt: "Yeongdeungpo to Sindorim Cherry Blossom Trail"
   relative: false
 videoID: "1qO3KHc4T0o"

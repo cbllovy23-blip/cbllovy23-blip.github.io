@@ -6,7 +6,7 @@ description: "Yeongdeungpo Times Square 사이트 : http://www.timessquare.co.kr
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/-9BvlAWa86U/maxresdefault.jpg"
+  image: "/images/covers/-9BvlAWa86U.jpg"
   alt: "Yeongdeungpo Times Sq ACTION"
   relative: false
 videoID: "-9BvlAWa86U"

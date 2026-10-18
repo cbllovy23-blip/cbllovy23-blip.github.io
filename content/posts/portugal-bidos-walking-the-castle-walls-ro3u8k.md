@@ -6,7 +6,7 @@ description: "포르투갈 오비두스(Óbidos) : https://maps.app.goo.gl/82Pef
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/Ro3U8KvGEcA/maxresdefault.jpg"
+  image: "/images/covers/Ro3U8KvGEcA.jpg"
   alt: "Portugal Óbidos: Walking the Castle Walls"
   relative: false
 videoID: "Ro3U8KvGEcA"

@@ -6,7 +6,7 @@ description: "관련링크 : https://opengov.seoul.go.kr/mediahub/20977690 Relat
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/8-G7oY59wfs/maxresdefault.jpg"
+  image: "/images/covers/8-G7oY59wfs.jpg"
   alt: "Guroadway Sindorim"
   relative: false
 videoID: "8-G7oY59wfs"

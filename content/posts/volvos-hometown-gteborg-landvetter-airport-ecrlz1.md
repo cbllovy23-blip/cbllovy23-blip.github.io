@@ -6,7 +6,7 @@ description: "Göteborg Landvetter Airport in Sweden is more than just an airpor
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/eCRlz1EzOFo/maxresdefault.jpg"
+  image: "/images/covers/eCRlz1EzOFo.jpg"
   alt: "Volvo's Hometown: Göteborg Landvetter Airport! 🇸🇪"
   relative: false
 videoID: "eCRlz1EzOFo"

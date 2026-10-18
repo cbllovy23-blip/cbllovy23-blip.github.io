@@ -6,7 +6,7 @@ description: "Experience the fleeting beauty of Jinhae's Yeojwacheon Stream, a m
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/nvrzJdb4aAs/maxresdefault.jpg"
+  image: "/images/covers/nvrzJdb4aAs.jpg"
   alt: "Jinhae Yeojwacheon Cherry Blossom: Seoul to Fall Petals Walk"
   relative: false
 videoID: "nvrzJdb4aAs"

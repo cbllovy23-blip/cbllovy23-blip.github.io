@@ -6,7 +6,7 @@ description: "리커버리 커피바 : https://maps.app.goo.gl/MQcVorNPRTfuduS3A
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/oplhXuU8ABA/maxresdefault.jpg"
+  image: "/images/covers/oplhXuU8ABA.jpg"
   alt: "First Time in Seongsu-dong"
   relative: false
 videoID: "oplhXuU8ABA"

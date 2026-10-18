@@ -6,7 +6,7 @@ description: "Take a quiet, reflective walk through the historic grounds of Cheo
 tags: ["koreatravelvlog"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/-dyGMFdYd5s/maxresdefault.jpg"
+  image: "/images/covers/-dyGMFdYd5s.jpg"
   alt: "Seoul Blue House (Cheong Wa Dae) Walk: Korea's Presidential Past"
   relative: false
 videoID: "-dyGMFdYd5s"

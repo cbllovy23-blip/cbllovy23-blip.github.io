@@ -6,7 +6,7 @@ description: "Euljiro Star Mall Zone 3: https://naver.me/5l6QArf7 Paul Bassett E
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/Xgy3AbAc5lk/maxresdefault.jpg"
+  image: "/images/covers/Xgy3AbAc5lk.jpg"
   alt: "Euljiro Star Mall Zone 3"
   relative: false
 videoID: "Xgy3AbAc5lk"

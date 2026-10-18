@@ -6,7 +6,7 @@ description: "서울 역사박물관 : https://maps.app.goo.gl/a5nWPWc8JabEVXhy9
 tags: []
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/vXc46agGKI8/maxresdefault.jpg"
+  image: "/images/covers/vXc46agGKI8.jpg"
   alt: "Seoul Museum of History (Rainy Day)"
   relative: false
 videoID: "vXc46agGKI8"

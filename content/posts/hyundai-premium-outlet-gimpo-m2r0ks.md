@@ -6,7 +6,7 @@ description: "Hyundai Premium Outlet Gimpo: https://maps.app.goo.gl/hQ7v6pf1vMSv
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/M2r0KSIN3Qk/maxresdefault.jpg"
+  image: "/images/covers/M2r0KSIN3Qk.jpg"
   alt: "Hyundai Premium Outlet Gimpo"
   relative: false
 videoID: "M2r0KSIN3Qk"

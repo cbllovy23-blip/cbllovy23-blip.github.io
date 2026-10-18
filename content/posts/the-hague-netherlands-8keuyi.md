@@ -6,7 +6,7 @@ description: "이준열사 기념관(Yi Jun Peace Museum) : https://maps.app.goo
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/8KeuYIElaQQ/maxresdefault.jpg"
+  image: "/images/covers/8KeuYIElaQQ.jpg"
   alt: "The Hague, Netherlands"
   relative: false
 videoID: "8KeuYIElaQQ"

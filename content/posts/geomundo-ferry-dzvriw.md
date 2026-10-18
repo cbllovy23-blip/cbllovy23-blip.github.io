@@ -6,7 +6,7 @@ description: "거문도 : https://naver.me/G1snXoOH Geomundo Island: https://nav
 tags: []
 destinations: ["Jeju"]
 cover:
-  image: "https://i.ytimg.com/vi/dZvriWViB7Q/maxresdefault.jpg"
+  image: "/images/covers/dZvriWViB7Q.jpg"
   alt: "Geomundo Ferry"
   relative: false
 videoID: "dZvriWViB7Q"

@@ -6,7 +6,7 @@ description: "태어나서 처음 먹어보는 요거트 2, 이게 뭔가 싶은
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/XuUxLWvvu5g/hqdefault.jpg"
+  image: "/images/covers/XuUxLWvvu5g.jpg"
   alt: "태어나서 처음 먹어보는 요거트 2, 이게 뭔가 싶은데 주니까 먹긴 하는데. =D"
   relative: false
 videoID: "XuUxLWvvu5g"

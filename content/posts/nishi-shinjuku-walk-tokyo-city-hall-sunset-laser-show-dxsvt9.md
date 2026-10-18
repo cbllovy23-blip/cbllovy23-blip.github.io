@@ -6,7 +6,7 @@ description: "📝 본문 (Description) In early June 2026, I walked through Nis
 tags: ["travelblog"]
 destinations: ["Tokyo"]
 cover:
-  image: "https://i.ytimg.com/vi/DXsvT9K3aQ0/maxresdefault.jpg"
+  image: "/images/covers/DXsvT9K3aQ0.jpg"
   alt: "Nishi-Shinjuku Walk: Tokyo City Hall, Sunset & Laser Show"
   relative: false
 videoID: "DXsvT9K3aQ0"

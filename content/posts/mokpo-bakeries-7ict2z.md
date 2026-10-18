@@ -6,7 +6,7 @@ description: "씨엘비 베이커리 : https://maps.app.goo.gl/ubhFV8R8bUqboJeJ7
 tags: []
 destinations: ["Busan"]
 cover:
-  image: "https://i.ytimg.com/vi/7icT2z9T3JQ/maxresdefault.jpg"
+  image: "/images/covers/7icT2z9T3JQ.jpg"
   alt: "Mokpo Bakeries"
   relative: false
 videoID: "7icT2z9T3JQ"

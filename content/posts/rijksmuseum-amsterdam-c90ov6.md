@@ -6,7 +6,7 @@ description: "Rijksmuseum Amsterdam: https://maps.app.goo.gl/WYEP2jQNczD9jXgB6 W
 tags: []
 destinations: ["Amsterdam"]
 cover:
-  image: "https://i.ytimg.com/vi/C90ov6_YQRc/maxresdefault.jpg"
+  image: "/images/covers/C90ov6_YQRc.jpg"
   alt: "Rijksmuseum, Amsterdam"
   relative: false
 videoID: "C90ov6_YQRc"

@@ -6,7 +6,7 @@ description: "📝 본문 (Description) From exploring the interior of Gimpo Int
 tags: ["koreatravelblog"]
 destinations: ["Osaka", "Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/jgiTRCw82s0/maxresdefault.jpg"
+  image: "/images/covers/jgiTRCw82s0.jpg"
   alt: "Gimpo International Airport: Terminal Walk & Takeoff View"
   relative: false
 videoID: "jgiTRCw82s0"

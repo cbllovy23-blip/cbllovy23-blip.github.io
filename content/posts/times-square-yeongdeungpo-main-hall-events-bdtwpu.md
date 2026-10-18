@@ -6,7 +6,7 @@ description: "타임스퀘어 : https://maps.app.goo.gl/EKvhTzjG5i522vdZ8 Times 
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/bdtWPUvagXc/maxresdefault.jpg"
+  image: "/images/covers/bdtWPUvagXc.jpg"
   alt: "Times Square Yeongdeungpo: Main Hall Events"
   relative: false
 videoID: "bdtWPUvagXc"

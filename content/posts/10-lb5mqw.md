@@ -6,7 +6,7 @@ description: "해운대 해수욕장 : https://maps.app.goo.gl/MAkHHu2JvgmPV3RM9
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/lb5MqWlKSpA/maxresdefault.jpg"
+  image: "/images/covers/lb5MqWlKSpA.jpg"
   alt: "제10회 해운대 빛 축제, 지하철역에서 해운대 바닷가까지 도보길, 겨울바람이 춥지만 눈이 즐거운 곳, 뜨뜻한 국물이 생각 :)"
   relative: false
 videoID: "lb5MqWlKSpA"

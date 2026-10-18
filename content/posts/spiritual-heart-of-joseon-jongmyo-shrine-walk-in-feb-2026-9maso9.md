@@ -6,7 +6,7 @@ description: "Take a steady walk through Jongmyo Shrine, a UNESCO World Heritage
 tags: ["koreatravelvlog", "seoul"]
 destinations: ["Seoul"]
 cover:
-  image: "https://i.ytimg.com/vi/9MaSO96BTGw/maxresdefault.jpg"
+  image: "/images/covers/9MaSO96BTGw.jpg"
   alt: "Spiritual Heart of Joseon: Jongmyo Shrine Walk in Feb 2026"
   relative: false
 videoID: "9MaSO96BTGw"

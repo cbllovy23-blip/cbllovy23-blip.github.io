@@ -6,7 +6,7 @@ description: "Graerak (Boramae Station): https://naver.me/5Obzt7zt Bravo Coffee 
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/PIROr_RXPnA/hqdefault.jpg"
+  image: "/images/covers/PIROr_RXPnA.jpg"
   alt: "Boramae to Jangseungbaegi Cafes"
   relative: false
 videoID: "PIROr_RXPnA"

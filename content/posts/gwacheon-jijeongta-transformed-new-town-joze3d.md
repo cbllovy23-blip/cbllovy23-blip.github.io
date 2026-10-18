@@ -6,7 +6,7 @@ description: "There's a temporary village-bus stop, reachable from Gwacheon Gove
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/jOzE3dP8giM/maxresdefault.jpg"
+  image: "/images/covers/jOzE3dP8giM.jpg"
   alt: "Gwacheon Jijeongta: Transformed New Town"
   relative: false
 videoID: "jOzE3dP8giM"

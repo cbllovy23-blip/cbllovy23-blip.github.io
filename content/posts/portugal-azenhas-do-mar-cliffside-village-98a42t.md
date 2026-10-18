@@ -6,7 +6,7 @@ description: "Praia das Azenhas do Mar : https://maps.app.goo.gl/B9FD4PrbQjX6Q6J
 tags: ["travelblog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/98a42TpVvd4/maxresdefault.jpg"
+  image: "/images/covers/98a42TpVvd4.jpg"
   alt: "Portugal: Azenhas do Mar Cliffside Village"
   relative: false
 videoID: "98a42TpVvd4"

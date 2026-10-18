@@ -6,7 +6,7 @@ description: "Can be tricky to find — easier if you head toward the Burger Kin
 tags: ["travelblog"]
 destinations: ["Lisbon"]
 cover:
-  image: "https://i.ytimg.com/vi/njI1k3BGyZ0/maxresdefault.jpg"
+  image: "/images/covers/njI1k3BGyZ0.jpg"
   alt: "Lisbon Christmas Music Event"
   relative: false
 videoID: "njI1k3BGyZ0"

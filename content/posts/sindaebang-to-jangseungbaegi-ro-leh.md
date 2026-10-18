@@ -6,7 +6,7 @@ description: "Bravo Coffee (Sindaebang Samgeori Station): https://naver.me/F36OQ
 tags: []
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/Ro-lEHtDtyw/hqdefault.jpg"
+  image: "/images/covers/Ro-lEHtDtyw.jpg"
   alt: "Sindaebang to Jangseungbaegi"
   relative: false
 videoID: "Ro-lEHtDtyw"

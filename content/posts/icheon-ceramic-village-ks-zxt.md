@@ -6,7 +6,7 @@ description: "Icheon Ceramics Festival: https://www.ceramic.or.kr/renewal/ Icheo
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/ks-ZXTD5WyU/maxresdefault.jpg"
+  image: "/images/covers/ks-ZXTD5WyU.jpg"
   alt: "Icheon Ceramic Village"
   relative: false
 videoID: "ks-ZXTD5WyU"

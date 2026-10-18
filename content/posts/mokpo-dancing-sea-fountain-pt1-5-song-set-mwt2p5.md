@@ -6,7 +6,7 @@ description: "Mokpo Dancing Sea Fountain: https://maps.app.goo.gl/4BJybgvzRAPpTY
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
-  image: "https://i.ytimg.com/vi/Mwt2p5bxPjk/maxresdefault.jpg"
+  image: "/images/covers/Mwt2p5bxPjk.jpg"
   alt: "Mokpo Dancing Sea Fountain Pt.1: 5-Song Set"
   relative: false
 videoID: "Mwt2p5bxPjk"

@@ -6,7 +6,7 @@ description: "헬싱키 반타 공항(Helsinki-Vantaa Airport) : https://maps.ap
 tags: []
 destinations: ["Helsinki"]
 cover:
-  image: "https://i.ytimg.com/vi/DxEQIgGlJ6Y/maxresdefault.jpg"
+  image: "/images/covers/DxEQIgGlJ6Y.jpg"
   alt: "Helsinki-Vantaa Airport"
   relative: false
 videoID: "DxEQIgGlJ6Y"
