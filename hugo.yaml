@@ -1,0 +1,100 @@
+baseURL: "https://cbllovy23-blip.github.io/"
+languageCode: en-us
+title: "CBL Walks — Silent Walking Travel Videos"
+theme: PaperMod
+pagination:
+  pagerSize: 10
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: ""
+
+minify:
+  disableXML: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  title: "CBL Walks"
+  description: "Silent 4K walking tours through cities in Korea, Japan, and Europe — filmed on iPhone. Follow along city streets with no narration, just ambient sound."
+  keywords: [silent walk, walking tour, 4K walk, travel vlog, no talking travel video, Seoul walk, Tokyo walk, Korea travel, Japan travel, Europe walk]
+  author: "Hoony"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowRssButtonInSectionTermList: true
+  ShowToc: false
+  comments: false
+  images: ["images/default-og.jpg"]
+
+  profileMode:
+    enabled: true
+    title: "CBL Walks"
+    subtitle: "Silent 4K walking tours through Korea, Japan & Europe — no talking, just the city. New walks posted regularly; full videos on YouTube."
+    imageUrl: "images/profile.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Watch on YouTube
+        url: "https://www.youtube.com/@CBL-walk"
+      - name: All Walks
+        url: "posts"
+
+  socialIcons:
+    - name: youtube
+      url: "https://www.youtube.com/@CBL-walk"
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: posts
+      name: Walks
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Destinations
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+sitemap:
+  changeFreq: weekly
+  priority: 0.5
+
+taxonomies:
+  tag: tags
+  destination: destinations

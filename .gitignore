@@ -1,0 +1,8 @@
+public/
+resources/_gen/
+.hugo_build.lock
+videos.json
+data_fetch/
+__pycache__/
+*.pyc
+.DS_Store
