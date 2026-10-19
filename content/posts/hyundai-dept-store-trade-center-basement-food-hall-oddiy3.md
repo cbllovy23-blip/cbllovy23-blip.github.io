@@ -18,9 +18,7 @@ I didn't know there was a Gordon Ramsay restaurant here...
 
 Hyundai Department Store Trade Center Branch: https://maps.app.goo.gl/qsusZcuQkkDnxhPN9
 
-출처: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100302
-
-아티스트: http://incompetech.com/
+Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100302 (Artist: http://incompetech.com/)
 
 <!-- TODO (edit before publishing):
   1. Rewrite/polish the lines above in your own voice -- this is a raw

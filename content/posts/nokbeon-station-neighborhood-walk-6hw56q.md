@@ -2,7 +2,7 @@
 title: "Nokbeon Station Neighborhood Walk"
 date: 2025-06-05
 draft: true
-description: "Nokbeon Station e-Pyeonhansesang Castle: https://maps.app.goo.gl/AYGhzqyysUXCEr36A 아티스트: http://audionautix.com/"
+description: "Nokbeon Station e-Pyeonhansesang Castle: https://maps.app.goo.gl/AYGhzqyysUXCEr36A Music by: http://audionautix.com/"
 tags: ["koreatravelvlog"]
 destinations: []
 cover:
@@ -16,7 +16,7 @@ videoID: "6hw56Qr7rV4"
 
 Nokbeon Station e-Pyeonhansesang Castle: https://maps.app.goo.gl/AYGhzqyysUXCEr36A
 
-아티스트: http://audionautix.com/
+Music by: http://audionautix.com/
 
 <!-- TODO (edit before publishing):
   1. Rewrite/polish the lines above in your own voice -- this is a raw

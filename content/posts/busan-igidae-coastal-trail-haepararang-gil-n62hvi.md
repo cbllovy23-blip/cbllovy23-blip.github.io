@@ -2,7 +2,7 @@
 title: "Busan Igidae Coastal Trail: Haepararang-gil"
 date: 2025-04-21
 draft: true
-description: "Igidae Trail Haeparang-gil: https://maps.app.goo.gl/7pz3L4xbaiNgNFYy6 아티스트: http://audionautix.com/"
+description: "Igidae Trail Haeparang-gil: https://maps.app.goo.gl/7pz3L4xbaiNgNFYy6 Music by: http://audionautix.com/"
 tags: ["koreatravelvlog"]
 destinations: ["Busan"]
 cover:
@@ -16,7 +16,7 @@ videoID: "n62HviNlQJI"
 
 Igidae Trail Haeparang-gil: https://maps.app.goo.gl/7pz3L4xbaiNgNFYy6
 
-아티스트: http://audionautix.com/
+Music by: http://audionautix.com/
 
 <!-- TODO (edit before publishing):
   1. Rewrite/polish the lines above in your own voice -- this is a raw

@@ -14,7 +14,7 @@ videoID: "XfL-Hd88eG0"
 
 {{< youtube XfL-Hd88eG0 >}}
 
-https://maps.app.goo.gl/4kQ3JAMqUDfFS6eK9
+Location: https://maps.app.goo.gl/4kQ3JAMqUDfFS6eK9
 
 <!-- TODO (edit before publishing):
   1. Rewrite/polish the lines above in your own voice -- this is a raw

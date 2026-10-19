@@ -18,8 +18,6 @@ Heuksan Culture & Tourism Hotel: https://maps.app.goo.gl/ZSs5pGfyXLsYr66x8
 
 (This is the only hotel on Heuksando)
 
-고래공원 : https://maps.app.goo.gl/YiYG4Q6t5U8LqDnW9
-
 Whale Park: https://maps.app.goo.gl/YiYG4Q6t5U8LqDnW9
 
 Heuksando Agassi Statue: https://maps.app.goo.gl/2eBjqdEi646ivKHb8
