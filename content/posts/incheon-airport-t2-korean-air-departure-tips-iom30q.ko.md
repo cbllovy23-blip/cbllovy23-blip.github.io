@@ -1,7 +1,7 @@
 ---
 title: "인천공항 제2터미널: 대한항공 출발 팁"
 date: 2024-12-30
-draft: true
+draft: false
 description: "서울역 공항철도(AREX): https://maps.app.goo.gl/3VAs2Gd2i89Js7b87 인천공항 제2터미널: https://maps.app.goo.gl/xFpqKk11o8c131D59"
 tags: ["koreatravelvlog"]
 destinations: ["Seoul", "Incheon"]

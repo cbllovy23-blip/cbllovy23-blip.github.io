@@ -1,7 +1,7 @@
 ---
 title: "Hyundai Premium Outlet Gimpo"
 date: 2024-08-29
-draft: true
+draft: false
 description: "Hyundai Premium Outlet Gimpo: https://maps.app.goo.gl/hQ7v6pf1vMSvsZYBA"
 tags: ["koreatravelvlog"]
 destinations: ["Gimpo"]

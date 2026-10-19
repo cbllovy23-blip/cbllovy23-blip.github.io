@@ -1,7 +1,7 @@
 ---
 title: "Incheon Airport T2: Korean Air Departure Tips"
 date: 2024-12-30
-draft: true
+draft: false
 description: "Seoul Station AREX (Airport Railroad): https://maps.app.goo.gl/3VAs2Gd2i89Js7b87 Incheon Airport Terminal 2: https://maps.app.goo.gl/xFpqKk11o8c131D59"
 tags: ["koreatravelvlog"]
 destinations: ["Seoul", "Incheon"]

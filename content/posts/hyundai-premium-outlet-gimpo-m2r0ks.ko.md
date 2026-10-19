@@ -1,7 +1,7 @@
 ---
 title: "현대프리미엄아울렛 김포점"
 date: 2024-08-29
-draft: true
+draft: false
 description: "현대프리미엄아울렛 김포점: https://maps.app.goo.gl/hQ7v6pf1vMSvsZYBA"
 tags: ["koreatravelvlog"]
 destinations: ["Gimpo"]

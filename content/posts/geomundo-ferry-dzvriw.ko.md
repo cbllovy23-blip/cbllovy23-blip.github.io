@@ -1,7 +1,7 @@
 ---
 title: "거문도 배편"
 date: 2024-05-06
-draft: true
+draft: false
 description: "거문도: https://naver.me/G1snXoOH 녹동신항연안여객선터미널: https://naver.me/IG6JHy8o (제주행 출발지로도 많이 이용됨)"
 tags: ["koreatravelvlog"]
 destinations: ["Yeosu"]

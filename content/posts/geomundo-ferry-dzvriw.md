@@ -1,7 +1,7 @@
 ---
 title: "Geomundo Ferry"
 date: 2024-05-06
-draft: true
+draft: false
 description: "거문도 : https://naver.me/G1snXoOH Geomundo Island: https://naver.me/G1snXoOH Nokdong New Port Coastal Passenger Terminal: https://naver.me/IG6JHy8o (Also a p"
 tags: ["koreatravelvlog"]
 destinations: ["Yeosu"]
