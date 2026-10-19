@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: ""
+googleAnalytics: "G-D04Z7GTCNF"
 
 minify:
   disableXML: true
